@@ -103,7 +103,7 @@ TrustMesh AI is currently under active development.
 
 * [x] Project architecture and research direction
 * [x] Repository structure
-* [ ] Dataset design and data collection
+* [x] Dataset design and data collection
 * [ ] Exploratory Data Analysis
 * [ ] Economic behavior feature engineering
 * [ ] Economic Reputation Engine
