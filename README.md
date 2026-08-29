@@ -291,7 +291,7 @@ Explore anonymized patterns within the informal economy and financial inclusion 
 
 * [x] Exploratory Data Analysis
 * [x] Feature engineering
-* [ ] Economic behavior analysis
+* [x] Economic behavior analysis
 * [ ] Economic Reputation Framework
 * [ ] Reputation dimension evaluation
 
