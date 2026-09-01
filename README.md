@@ -106,7 +106,7 @@ TrustMesh AI is currently under active development.
 * [x] Dataset design and data collection
 * [x] Exploratory Data Analysis
 * [x] Economic behavior feature engineering
-* [ ] Economic Reputation Engine
+* [x] Economic Reputation Engine
 * [ ] Business Twin Simulator
 * [ ] Knowledge Graph
 * [ ] Explainable AI
@@ -292,7 +292,7 @@ Explore anonymized patterns within the informal economy and financial inclusion 
 * [x] Exploratory Data Analysis
 * [x] Feature engineering
 * [x] Economic behavior analysis
-* [ ] Economic Reputation Framework
+* [x] Economic Reputation Framework
 * [ ] Reputation dimension evaluation
 
 ### Phase 3 — Advanced Intelligence
