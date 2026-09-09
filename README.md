@@ -108,7 +108,7 @@ TrustMesh AI is currently under active development.
 * [x] Economic behavior feature engineering
 * [x] Economic Reputation Engine
 * [x] Business Twin Simulator
-* [ ] Knowledge Graph
+* [x] Knowledge Graph
 * [ ] Explainable AI
 * [ ] Recommendation Engine
 * [ ] Interactive Dashboard
