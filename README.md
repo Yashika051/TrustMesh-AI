@@ -298,7 +298,7 @@ Explore anonymized patterns within the informal economy and financial inclusion 
 ### Phase 3 — Advanced Intelligence
 
 * [x] Business Twin Simulator
-* [ ] Economic Knowledge Graph
+* [x] Economic Knowledge Graph
 * [ ] Recommendation Engine
 * [ ] Explainable AI layer
 
