@@ -1,0 +1,501 @@
+business_id,owner_id,business_type,environment_type,location,economic_reputation_index,recommendation_priority,recommendation_count,recommendations
+B490,O490,Micro Service Business,Semi-Urban,Ahmedabad,72.3,Low,1,Continue monitoring economic performance
+B481,O481,Food Vendor,Semi-Urban,Jaipur,55.48,High,4,Improve cash flow management; Reduce operating expenses; Improve payment discipline; Stabilize customer demand
+B486,O486,Retail Shop,Urban,Ahmedabad,61.81,Medium,2,Improve cash flow management; Reduce operating expenses
+B497,O497,Artisan,Semi-Urban,Bengaluru,67.35,Low,1,Continue monitoring economic performance
+B493,O493,Retail Shop,Urban,Indore,66.4,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B495,O495,Retail Shop,Peri-Urban,Delhi,63.82,Medium,1,Continue monitoring economic performance
+B484,O484,Retail Shop,Rural,Delhi,70.02,Medium,2,Reduce operating expenses; Strengthen supplier reliability
+B491,O491,Food Vendor,Rural,Guwahati,66.87,Low,1,Continue monitoring economic performance
+B485,O485,Small Producer,Peri-Urban,Indore,63.59,Medium,1,Improve payment discipline
+B499,O499,Home Business,Peri-Urban,Lucknow,68.45,Low,1,Stabilize customer demand
+B498,O498,Small Producer,Urban,Mumbai,60.57,Medium,3,Improve cash flow management; Strengthen supplier reliability; Build financial resilience
+B492,O492,Micro Service Business,Semi-Urban,Lucknow,69.27,Low,1,Improve cash flow management
+B494,O494,Transport Worker,Urban,Delhi,61.65,Medium,3,Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B482,O482,Food Vendor,Rural,Guwahati,61.13,Medium,3,Improve payment discipline; Strengthen supplier reliability; Stabilize customer demand
+B496,O496,Food Vendor,Rural,Jaipur,64.85,Medium,1,Strengthen supplier reliability
+B489,O489,Transport Worker,Semi-Urban,Patna,66.1,Low,1,Continue monitoring economic performance
+B487,O487,Micro Service Business,Rural,Bengaluru,71.09,Low,1,Continue monitoring economic performance
+B483,O483,Small Producer,Urban,Lucknow,62.01,Medium,2,Improve cash flow management; Strengthen supplier reliability
+B488,O488,Freelancer,Peri-Urban,Ahmedabad,77.32,Low,1,Maintain current economic practices
+B250,O250,Food Vendor,Rural,Jaipur,65.26,Low,1,Strengthen supplier reliability
+B479,O479,Freelancer,Rural,Guwahati,78.68,Low,1,Maintain current economic practices
+B151,O151,Retail Shop,Rural,Kochi,67.07,Low,1,Continue monitoring economic performance
+B152,O152,Food Vendor,Semi-Urban,Guwahati,61.97,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B153,O153,Retail Shop,Semi-Urban,Delhi,65.19,Low,1,Stabilize customer demand
+B154,O154,Retail Shop,Rural,Indore,68.97,Low,1,Reduce operating expenses
+B155,O155,Micro Service Business,Rural,Indore,71.56,Low,1,Continue monitoring economic performance
+B156,O156,Small Producer,Urban,Patna,67.0,Medium,2,Improve cash flow management; Stabilize customer demand
+B157,O157,Retail Shop,Rural,Lucknow,68.23,Low,1,Reduce operating expenses
+B158,O158,Transport Worker,Rural,Kochi,72.1,Low,1,Continue monitoring economic performance
+B159,O159,Home Business,Urban,Guwahati,68.75,Low,1,Improve cash flow management
+B160,O160,Retail Shop,Rural,Ahmedabad,66.97,Low,1,Strengthen supplier reliability
+B161,O161,Food Vendor,Rural,Delhi,68.21,Low,1,Continue monitoring economic performance
+B162,O162,Freelancer,Semi-Urban,Kochi,72.36,Low,1,Continue monitoring economic performance
+B150,O150,Home Business,Rural,Ahmedabad,71.17,Low,1,Continue monitoring economic performance
+B163,O163,Home Business,Urban,Guwahati,66.33,Low,1,Strengthen supplier reliability
+B165,O165,Home Business,Urban,Bengaluru,62.9,Medium,2,Improve cash flow management; Stabilize customer demand
+B166,O166,Micro Service Business,Urban,Indore,69.55,Low,1,Continue monitoring economic performance
+B167,O167,Retail Shop,Urban,Ahmedabad,70.9,Medium,2,Improve cash flow management; Reduce operating expenses
+B168,O168,Retail Shop,Rural,Indore,63.92,Medium,2,Improve payment discipline; Strengthen supplier reliability
+B169,O169,Micro Service Business,Rural,Ahmedabad,73.68,Low,1,Stabilize customer demand
+B170,O170,Food Vendor,Rural,Patna,61.87,Medium,1,Improve payment discipline
+B171,O171,Retail Shop,Urban,Lucknow,66.54,Low,1,Continue monitoring economic performance
+B172,O172,Food Vendor,Urban,Ahmedabad,59.05,Medium,3,Improve cash flow management; Improve payment discipline; Strengthen supplier reliability
+B173,O173,Micro Service Business,Peri-Urban,Indore,64.06,Medium,1,Strengthen supplier reliability
+B174,O174,Food Vendor,Semi-Urban,Patna,57.09,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B175,O175,Food Vendor,Rural,Ahmedabad,63.27,Medium,2,Improve cash flow management; Reduce operating expenses
+B176,O176,Food Vendor,Urban,Jaipur,61.48,Medium,2,Improve cash flow management; Improve payment discipline
+B164,O164,Retail Shop,Semi-Urban,Jaipur,70.63,Low,1,Reduce operating expenses
+B177,O177,Small Producer,Urban,Lucknow,65.72,Medium,3,Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B149,O149,Artisan,Peri-Urban,Bengaluru,69.92,Low,1,Strengthen supplier reliability
+B147,O147,Retail Shop,Urban,Kochi,66.68,Low,1,Improve cash flow management
+B121,O121,Transport Worker,Semi-Urban,Patna,60.99,High,4,Improve payment discipline; Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B122,O122,Food Vendor,Semi-Urban,Indore,65.95,Low,1,Stabilize customer demand
+B123,O123,Freelancer,Rural,Lucknow,79.0,Low,1,Maintain current economic practices
+B124,O124,Food Vendor,Semi-Urban,Patna,64.81,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B125,O125,Transport Worker,Urban,Bengaluru,63.12,Medium,1,Stabilize customer demand
+B126,O126,Transport Worker,Semi-Urban,Kochi,61.39,Medium,1,Improve payment discipline
+B127,O127,Home Business,Peri-Urban,Kochi,72.92,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B128,O128,Transport Worker,Peri-Urban,Bengaluru,60.41,High,5,Improve payment discipline; Strengthen supplier reliability; Stabilize customer demand; Strengthen business continuity; Build financial resilience
+B129,O129,Food Vendor,Urban,Guwahati,58.69,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B130,O130,Freelancer,Peri-Urban,Patna,74.07,Low,1,Continue monitoring economic performance
+B131,O131,Retail Shop,Rural,Patna,69.09,Low,1,Continue monitoring economic performance
+B132,O132,Food Vendor,Peri-Urban,Bengaluru,59.86,Medium,2,Improve payment discipline; Strengthen supplier reliability
+B148,O148,Transport Worker,Peri-Urban,Jaipur,60.77,High,5,Improve cash flow management; Strengthen supplier reliability; Stabilize customer demand; Strengthen business continuity; Build financial resilience
+B133,O133,Micro Service Business,Urban,Mumbai,60.5,Medium,2,Improve cash flow management; Reduce operating expenses
+B135,O135,Food Vendor,Rural,Delhi,66.74,Low,1,Continue monitoring economic performance
+B136,O136,Retail Shop,Urban,Bengaluru,67.55,Low,1,Continue monitoring economic performance
+B137,O137,Transport Worker,Peri-Urban,Lucknow,70.69,Low,1,Continue monitoring economic performance
+B138,O138,Retail Shop,Rural,Lucknow,68.47,Low,1,Reduce operating expenses
+B139,O139,Retail Shop,Rural,Indore,68.66,Low,1,Continue monitoring economic performance
+B140,O140,Artisan,Rural,Bengaluru,66.83,Low,1,Stabilize customer demand
+B141,O141,Retail Shop,Urban,Indore,68.25,Low,1,Continue monitoring economic performance
+B142,O142,Transport Worker,Rural,Bengaluru,68.08,Low,1,Continue monitoring economic performance
+B143,O143,Micro Service Business,Peri-Urban,Patna,69.5,Low,1,Continue monitoring economic performance
+B144,O144,Retail Shop,Rural,Delhi,68.29,Low,1,Continue monitoring economic performance
+B145,O145,Artisan,Semi-Urban,Patna,61.79,Medium,3,Improve cash flow management; Improve payment discipline; Strengthen supplier reliability
+B146,O146,Artisan,Rural,Ahmedabad,63.36,Medium,1,Stabilize customer demand
+B134,O134,Artisan,Semi-Urban,Ahmedabad,69.43,Low,1,Continue monitoring economic performance
+B120,O120,Retail Shop,Urban,Lucknow,63.98,Medium,2,Improve cash flow management; Stabilize customer demand
+B178,O178,Transport Worker,Urban,Ahmedabad,62.55,Medium,2,Improve cash flow management; Stabilize customer demand
+B180,O180,Small Producer,Urban,Kochi,64.5,Medium,1,Continue monitoring economic performance
+B211,O211,Artisan,Peri-Urban,Delhi,73.42,Low,1,Strengthen supplier reliability
+B212,O212,Food Vendor,Urban,Guwahati,62.49,Medium,3,Improve cash flow management; Reduce operating expenses; Stabilize customer demand
+B213,O213,Freelancer,Semi-Urban,Delhi,75.52,Low,1,Maintain current economic practices
+B214,O214,Freelancer,Urban,Guwahati,72.54,Low,1,Continue monitoring economic performance
+B215,O215,Artisan,Peri-Urban,Jaipur,69.78,Low,1,Continue monitoring economic performance
+B216,O216,Small Producer,Rural,Bengaluru,66.21,Low,1,Strengthen business continuity
+B217,O217,Small Producer,Urban,Jaipur,62.74,Medium,1,Improve cash flow management
+B218,O218,Transport Worker,Semi-Urban,Delhi,67.76,Low,1,Continue monitoring economic performance
+B219,O219,Small Producer,Peri-Urban,Bengaluru,56.39,High,4,Improve cash flow management; Reduce operating expenses; Improve payment discipline; Strengthen supplier reliability
+B220,O220,Transport Worker,Rural,Jaipur,62.53,Medium,2,Improve payment discipline; Stabilize customer demand
+B221,O221,Small Producer,Rural,Mumbai,63.8,Medium,1,Strengthen supplier reliability
+B222,O222,Artisan,Urban,Delhi,63.61,Medium,1,Stabilize customer demand
+B210,O210,Small Producer,Urban,Bengaluru,58.83,Medium,2,Improve cash flow management; Strengthen business continuity
+B223,O223,Retail Shop,Rural,Jaipur,64.33,Medium,2,Reduce operating expenses; Strengthen supplier reliability
+B225,O225,Food Vendor,Urban,Mumbai,65.33,Low,1,Improve cash flow management
+B226,O226,Small Producer,Rural,Kochi,64.77,Medium,1,Stabilize customer demand
+B227,O227,Artisan,Peri-Urban,Delhi,67.86,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B228,O228,Home Business,Semi-Urban,Mumbai,70.5,Low,1,Stabilize customer demand
+B229,O229,Artisan,Semi-Urban,Kochi,68.77,Low,1,Stabilize customer demand
+B230,O230,Retail Shop,Semi-Urban,Jaipur,65.93,Low,1,Continue monitoring economic performance
+B231,O231,Food Vendor,Urban,Lucknow,71.3,Low,1,Improve cash flow management
+B232,O232,Retail Shop,Urban,Delhi,68.66,Medium,2,Improve cash flow management; Reduce operating expenses
+B233,O233,Home Business,Rural,Bengaluru,73.29,Low,1,Continue monitoring economic performance
+B234,O234,Retail Shop,Urban,Guwahati,57.78,Medium,3,Improve cash flow management; Reduce operating expenses; Stabilize customer demand
+B235,O235,Small Producer,Peri-Urban,Guwahati,65.19,Low,1,Strengthen supplier reliability
+B236,O236,Small Producer,Peri-Urban,Jaipur,68.43,Low,1,Stabilize customer demand
+B224,O224,Transport Worker,Urban,Mumbai,59.15,Medium,3,Improve cash flow management; Improve payment discipline; Stabilize customer demand
+B179,O179,Food Vendor,Peri-Urban,Patna,66.05,Low,1,Stabilize customer demand
+B209,O209,Micro Service Business,Rural,Kochi,67.83,Low,1,Continue monitoring economic performance
+B207,O207,Transport Worker,Peri-Urban,Lucknow,65.31,Medium,2,Stabilize customer demand; Build financial resilience
+B181,O181,Small Producer,Urban,Mumbai,63.87,Medium,2,Improve cash flow management; Stabilize customer demand
+B182,O182,Transport Worker,Rural,Guwahati,60.31,Medium,3,Improve payment discipline; Strengthen supplier reliability; Stabilize customer demand
+B183,O183,Home Business,Peri-Urban,Mumbai,71.79,Low,1,Stabilize customer demand
+B184,O184,Artisan,Semi-Urban,Mumbai,63.4,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B185,O185,Micro Service Business,Urban,Delhi,73.82,Low,1,Continue monitoring economic performance
+B186,O186,Food Vendor,Semi-Urban,Jaipur,64.37,Medium,1,Continue monitoring economic performance
+B187,O187,Small Producer,Rural,Kochi,63.82,Medium,1,Strengthen supplier reliability
+B188,O188,Retail Shop,Semi-Urban,Bengaluru,58.35,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B189,O189,Transport Worker,Semi-Urban,Ahmedabad,65.53,High,4,Strengthen supplier reliability; Stabilize customer demand; Strengthen business continuity; Build financial resilience
+B190,O190,Food Vendor,Semi-Urban,Guwahati,62.8,Medium,2,Improve payment discipline; Strengthen supplier reliability
+B191,O191,Micro Service Business,Urban,Lucknow,65.48,Low,1,Continue monitoring economic performance
+B192,O192,Small Producer,Urban,Kochi,65.18,Low,1,Improve cash flow management
+B208,O208,Retail Shop,Semi-Urban,Kochi,65.49,Low,1,Continue monitoring economic performance
+B193,O193,Home Business,Semi-Urban,Indore,65.13,Low,1,Stabilize customer demand
+B195,O195,Food Vendor,Rural,Delhi,61.38,Medium,3,Improve cash flow management; Reduce operating expenses; Improve payment discipline
+B196,O196,Artisan,Urban,Delhi,67.74,Low,1,Continue monitoring economic performance
+B197,O197,Food Vendor,Urban,Kochi,68.06,Medium,2,Improve cash flow management; Stabilize customer demand
+B198,O198,Retail Shop,Rural,Patna,66.19,Medium,2,Improve cash flow management; Reduce operating expenses
+B199,O199,Food Vendor,Urban,Mumbai,64.24,Medium,1,Improve cash flow management
+B200,O200,Small Producer,Semi-Urban,Indore,60.94,Medium,1,Improve payment discipline
+B201,O201,Micro Service Business,Urban,Delhi,76.58,Low,1,Maintain current economic practices
+B202,O202,Retail Shop,Urban,Guwahati,68.74,Medium,2,Improve cash flow management; Reduce operating expenses
+B203,O203,Artisan,Urban,Delhi,70.99,Low,1,Continue monitoring economic performance
+B204,O204,Food Vendor,Urban,Lucknow,67.22,Medium,2,Improve cash flow management; Reduce operating expenses
+B205,O205,Food Vendor,Semi-Urban,Ahmedabad,66.1,Low,1,Continue monitoring economic performance
+B206,O206,Transport Worker,Rural,Delhi,67.7,Low,1,Continue monitoring economic performance
+B194,O194,Artisan,Semi-Urban,Bengaluru,66.1,Low,1,Strengthen supplier reliability
+B237,O237,Freelancer,Urban,Patna,74.77,Low,1,Continue monitoring economic performance
+B119,O119,Food Vendor,Urban,Lucknow,61.02,Medium,3,Improve cash flow management; Reduce operating expenses; Stabilize customer demand
+B117,O117,Artisan,Urban,Jaipur,65.14,Medium,2,Improve cash flow management; Reduce operating expenses
+B031,O031,Micro Service Business,Urban,Ahmedabad,72.37,Low,1,Continue monitoring economic performance
+B032,O032,Freelancer,Urban,Bengaluru,76.93,Low,1,Maintain current economic practices
+B033,O033,Home Business,Semi-Urban,Kochi,63.82,Medium,1,Improve cash flow management
+B034,O034,Food Vendor,Semi-Urban,Guwahati,63.74,Medium,1,Stabilize customer demand
+B035,O035,Retail Shop,Rural,Jaipur,70.28,Low,1,Continue monitoring economic performance
+B036,O036,Freelancer,Semi-Urban,Delhi,77.12,Low,1,Maintain current economic practices
+B037,O037,Home Business,Urban,Indore,68.11,Low,1,Stabilize customer demand
+B038,O038,Retail Shop,Semi-Urban,Mumbai,74.68,Low,1,Reduce operating expenses
+B039,O039,Transport Worker,Urban,Indore,59.09,Medium,2,Improve cash flow management; Improve payment discipline
+B040,O040,Retail Shop,Semi-Urban,Bengaluru,70.94,Low,1,Continue monitoring economic performance
+B041,O041,Small Producer,Semi-Urban,Ahmedabad,62.02,Medium,1,Stabilize customer demand
+B042,O042,Retail Shop,Semi-Urban,Mumbai,69.34,Low,1,Continue monitoring economic performance
+B030,O030,Freelancer,Peri-Urban,Delhi,75.48,Low,1,Maintain current economic practices
+B043,O043,Micro Service Business,Urban,Jaipur,73.07,Low,1,Continue monitoring economic performance
+B045,O045,Retail Shop,Peri-Urban,Delhi,69.55,Medium,2,Improve cash flow management; Reduce operating expenses
+B046,O046,Retail Shop,Rural,Bengaluru,69.19,Low,1,Reduce operating expenses
+B047,O047,Retail Shop,Peri-Urban,Kochi,73.55,Low,1,Continue monitoring economic performance
+B048,O048,Retail Shop,Urban,Bengaluru,63.94,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B049,O049,Home Business,Rural,Ahmedabad,74.84,Low,1,Continue monitoring economic performance
+B050,O050,Retail Shop,Rural,Indore,63.72,Medium,3,Reduce operating expenses; Strengthen supplier reliability; Stabilize customer demand
+B051,O051,Retail Shop,Urban,Jaipur,72.43,Low,1,Continue monitoring economic performance
+B052,O052,Transport Worker,Peri-Urban,Indore,65.36,Low,1,Stabilize customer demand
+B053,O053,Food Vendor,Urban,Indore,58.22,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B054,O054,Home Business,Rural,Indore,69.44,Low,1,Stabilize customer demand
+B055,O055,Transport Worker,Rural,Jaipur,64.64,Medium,1,Stabilize customer demand
+B056,O056,Retail Shop,Urban,Patna,65.22,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B044,O044,Transport Worker,Semi-Urban,Jaipur,58.47,High,4,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability; Stabilize customer demand
+B057,O057,Food Vendor,Semi-Urban,Lucknow,66.02,Low,1,Stabilize customer demand
+B029,O029,Food Vendor,Rural,Ahmedabad,54.79,High,5,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B027,O027,Micro Service Business,Rural,Delhi,69.39,Low,1,Continue monitoring economic performance
+B001,O001,Small Producer,Rural,Patna,67.2,Low,1,Strengthen supplier reliability
+B002,O002,Retail Shop,Peri-Urban,Kochi,69.52,Low,1,Continue monitoring economic performance
+B003,O003,Small Producer,Urban,Lucknow,64.9,Medium,2,Improve cash flow management; Stabilize customer demand
+B004,O004,Food Vendor,Semi-Urban,Jaipur,60.3,Medium,2,Improve cash flow management; Reduce operating expenses
+B005,O005,Food Vendor,Urban,Lucknow,59.99,Medium,2,Improve cash flow management; Reduce operating expenses
+B006,O006,Small Producer,Rural,Delhi,65.66,Low,1,Stabilize customer demand
+B007,O007,Small Producer,Peri-Urban,Lucknow,63.27,Medium,2,Strengthen supplier reliability; Strengthen business continuity
+B008,O008,Food Vendor,Rural,Delhi,65.7,Low,1,Strengthen supplier reliability
+B009,O009,Retail Shop,Peri-Urban,Delhi,69.18,Low,1,Continue monitoring economic performance
+B010,O010,Micro Service Business,Semi-Urban,Patna,68.41,Low,1,Continue monitoring economic performance
+B011,O011,Retail Shop,Rural,Kochi,64.03,Medium,2,Reduce operating expenses; Improve payment discipline
+B012,O012,Transport Worker,Urban,Indore,66.05,Low,1,Strengthen supplier reliability
+B028,O028,Transport Worker,Rural,Indore,68.3,Medium,2,Reduce operating expenses; Stabilize customer demand
+B013,O013,Home Business,Semi-Urban,Lucknow,63.44,Medium,1,Improve cash flow management
+B015,O015,Small Producer,Peri-Urban,Delhi,60.59,Medium,2,Improve payment discipline; Strengthen business continuity
+B016,O016,Small Producer,Peri-Urban,Kochi,62.06,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B017,O017,Micro Service Business,Urban,Mumbai,61.74,Medium,2,Improve cash flow management; Improve payment discipline
+B018,O018,Retail Shop,Peri-Urban,Bengaluru,68.54,Low,1,Reduce operating expenses
+B019,O019,Freelancer,Rural,Patna,77.65,Low,1,Maintain current economic practices
+B020,O020,Home Business,Semi-Urban,Indore,75.04,Low,1,Maintain current economic practices
+B021,O021,Micro Service Business,Urban,Guwahati,71.72,Low,1,Continue monitoring economic performance
+B022,O022,Micro Service Business,Rural,Patna,66.25,Low,1,Continue monitoring economic performance
+B023,O023,Artisan,Urban,Mumbai,70.41,Low,1,Improve cash flow management
+B024,O024,Small Producer,Urban,Bengaluru,60.54,Medium,2,Improve cash flow management; Improve payment discipline
+B025,O025,Retail Shop,Semi-Urban,Mumbai,67.38,Low,1,Reduce operating expenses
+B026,O026,Micro Service Business,Urban,Lucknow,76.35,Low,1,Maintain current economic practices
+B014,O014,Retail Shop,Peri-Urban,Jaipur,65.29,Medium,2,Reduce operating expenses; Stabilize customer demand
+B118,O118,Transport Worker,Semi-Urban,Jaipur,65.86,Low,1,Stabilize customer demand
+B058,O058,Retail Shop,Urban,Ahmedabad,70.08,Medium,2,Improve cash flow management; Reduce operating expenses
+B060,O060,Retail Shop,Urban,Ahmedabad,65.33,Low,1,Reduce operating expenses
+B091,O091,Small Producer,Peri-Urban,Lucknow,67.74,Low,1,Continue monitoring economic performance
+B092,O092,Micro Service Business,Peri-Urban,Guwahati,73.41,Low,1,Continue monitoring economic performance
+B093,O093,Small Producer,Semi-Urban,Lucknow,63.43,Medium,2,Improve cash flow management; Reduce operating expenses
+B094,O094,Freelancer,Semi-Urban,Kochi,75.42,Low,1,Maintain current economic practices
+B095,O095,Home Business,Semi-Urban,Ahmedabad,68.48,Low,1,Continue monitoring economic performance
+B096,O096,Small Producer,Semi-Urban,Delhi,59.45,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B097,O097,Retail Shop,Rural,Indore,74.71,Low,1,Continue monitoring economic performance
+B098,O098,Retail Shop,Urban,Guwahati,63.61,Medium,3,Improve cash flow management; Reduce operating expenses; Stabilize customer demand
+B099,O099,Home Business,Rural,Delhi,75.2,Low,1,Maintain current economic practices
+B100,O100,Retail Shop,Semi-Urban,Lucknow,69.25,Low,1,Stabilize customer demand
+B101,O101,Artisan,Urban,Kochi,68.53,Low,1,Continue monitoring economic performance
+B102,O102,Home Business,Peri-Urban,Mumbai,73.22,Low,1,Continue monitoring economic performance
+B090,O090,Artisan,Urban,Delhi,69.29,Low,1,Strengthen supplier reliability
+B103,O103,Retail Shop,Semi-Urban,Patna,69.03,Low,1,Continue monitoring economic performance
+B105,O105,Freelancer,Urban,Patna,74.07,Low,1,Continue monitoring economic performance
+B106,O106,Retail Shop,Urban,Delhi,70.61,Low,1,Reduce operating expenses
+B107,O107,Freelancer,Semi-Urban,Kochi,74.13,Low,1,Strengthen supplier reliability
+B108,O108,Transport Worker,Urban,Kochi,64.08,Medium,1,Stabilize customer demand
+B109,O109,Freelancer,Urban,Lucknow,76.26,Low,1,Stabilize customer demand
+B110,O110,Food Vendor,Urban,Bengaluru,63.08,Medium,1,Continue monitoring economic performance
+B111,O111,Food Vendor,Semi-Urban,Lucknow,64.43,High,4,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability; Stabilize customer demand
+B112,O112,Home Business,Semi-Urban,Bengaluru,72.76,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B113,O113,Freelancer,Semi-Urban,Bengaluru,73.36,Low,1,Strengthen supplier reliability
+B114,O114,Retail Shop,Urban,Indore,73.81,Low,1,Improve cash flow management
+B115,O115,Micro Service Business,Semi-Urban,Lucknow,69.75,Low,1,Strengthen supplier reliability
+B116,O116,Artisan,Urban,Mumbai,61.17,Medium,2,Improve cash flow management; Reduce operating expenses
+B104,O104,Freelancer,Rural,Indore,77.66,Low,1,Maintain current economic practices
+B059,O059,Transport Worker,Semi-Urban,Patna,63.13,Medium,2,Improve payment discipline; Strengthen supplier reliability
+B089,O089,Freelancer,Semi-Urban,Lucknow,71.58,Low,1,Continue monitoring economic performance
+B087,O087,Transport Worker,Urban,Bengaluru,60.58,Medium,2,Improve payment discipline; Strengthen supplier reliability
+B061,O061,Micro Service Business,Urban,Mumbai,65.48,Low,1,Continue monitoring economic performance
+B062,O062,Artisan,Urban,Bengaluru,65.14,Medium,3,Improve cash flow management; Strengthen supplier reliability; Stabilize customer demand
+B063,O063,Freelancer,Rural,Bengaluru,79.19,Low,1,Maintain current economic practices
+B064,O064,Micro Service Business,Peri-Urban,Guwahati,73.13,Low,1,Continue monitoring economic performance
+B065,O065,Retail Shop,Semi-Urban,Bengaluru,69.86,Low,1,Continue monitoring economic performance
+B066,O066,Retail Shop,Semi-Urban,Jaipur,68.13,Low,1,Reduce operating expenses
+B067,O067,Micro Service Business,Rural,Kochi,75.82,Low,1,Maintain current economic practices
+B068,O068,Retail Shop,Urban,Delhi,72.73,Low,1,Continue monitoring economic performance
+B069,O069,Transport Worker,Urban,Guwahati,71.86,Low,1,Stabilize customer demand
+B070,O070,Small Producer,Rural,Delhi,65.93,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B071,O071,Small Producer,Peri-Urban,Ahmedabad,61.13,High,4,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability; Stabilize customer demand
+B072,O072,Small Producer,Rural,Delhi,61.8,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B088,O088,Home Business,Urban,Patna,69.48,Low,1,Improve cash flow management
+B073,O073,Artisan,Semi-Urban,Delhi,69.64,Medium,3,Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B075,O075,Freelancer,Rural,Mumbai,76.65,Low,1,Maintain current economic practices
+B076,O076,Freelancer,Urban,Indore,68.12,Medium,2,Improve payment discipline; Strengthen supplier reliability
+B077,O077,Artisan,Urban,Bengaluru,62.28,Medium,2,Improve cash flow management; Stabilize customer demand
+B078,O078,Retail Shop,Semi-Urban,Bengaluru,68.61,Low,1,Continue monitoring economic performance
+B079,O079,Micro Service Business,Urban,Jaipur,63.31,Medium,2,Improve cash flow management; Reduce operating expenses
+B080,O080,Micro Service Business,Semi-Urban,Guwahati,72.3,Low,1,Strengthen supplier reliability
+B081,O081,Food Vendor,Semi-Urban,Jaipur,65.53,Low,1,Strengthen supplier reliability
+B082,O082,Retail Shop,Peri-Urban,Kochi,61.37,High,4,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability; Stabilize customer demand
+B083,O083,Micro Service Business,Urban,Kochi,67.22,Low,1,Continue monitoring economic performance
+B084,O084,Food Vendor,Semi-Urban,Jaipur,68.11,Medium,2,Improve cash flow management; Reduce operating expenses
+B085,O085,Freelancer,Urban,Guwahati,78.85,Low,1,Maintain current economic practices
+B086,O086,Retail Shop,Semi-Urban,Jaipur,71.05,Medium,2,Improve cash flow management; Reduce operating expenses
+B074,O074,Freelancer,Urban,Guwahati,68.51,Low,1,Improve payment discipline
+B238,O238,Food Vendor,Urban,Patna,63.12,Medium,1,Improve cash flow management
+B239,O239,Food Vendor,Semi-Urban,Jaipur,67.53,Low,1,Continue monitoring economic performance
+B240,O240,Food Vendor,Peri-Urban,Mumbai,61.12,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B393,O393,Home Business,Semi-Urban,Bengaluru,65.31,Medium,2,Improve cash flow management; Reduce operating expenses
+B394,O394,Transport Worker,Semi-Urban,Delhi,63.2,Medium,2,Improve cash flow management; Stabilize customer demand
+B395,O395,Artisan,Semi-Urban,Delhi,70.01,Low,1,Stabilize customer demand
+B396,O396,Home Business,Urban,Ahmedabad,70.52,Low,1,Continue monitoring economic performance
+B397,O397,Home Business,Semi-Urban,Bengaluru,74.06,Low,1,Continue monitoring economic performance
+B398,O398,Freelancer,Peri-Urban,Patna,80.45,Low,1,Maintain current economic practices
+B399,O399,Transport Worker,Urban,Ahmedabad,59.52,Medium,2,Improve payment discipline; Strengthen supplier reliability
+B400,O400,Transport Worker,Peri-Urban,Guwahati,61.25,Medium,2,Improve payment discipline; Stabilize customer demand
+B401,O401,Transport Worker,Urban,Jaipur,64.01,Medium,1,Continue monitoring economic performance
+B402,O402,Freelancer,Semi-Urban,Jaipur,79.49,Low,1,Maintain current economic practices
+B403,O403,Micro Service Business,Peri-Urban,Mumbai,75.82,Low,1,Maintain current economic practices
+B404,O404,Artisan,Rural,Indore,70.42,Low,1,Continue monitoring economic performance
+B392,O392,Micro Service Business,Semi-Urban,Ahmedabad,69.39,Low,1,Strengthen supplier reliability
+B405,O405,Micro Service Business,Rural,Jaipur,76.66,Low,1,Maintain current economic practices
+B407,O407,Freelancer,Urban,Mumbai,71.04,Low,1,Strengthen supplier reliability
+B408,O408,Small Producer,Urban,Jaipur,56.1,High,4,Improve cash flow management; Reduce operating expenses; Improve payment discipline; Strengthen supplier reliability
+B409,O409,Artisan,Peri-Urban,Indore,70.82,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B410,O410,Transport Worker,Semi-Urban,Delhi,60.28,Medium,2,Improve cash flow management; Strengthen supplier reliability
+B411,O411,Food Vendor,Semi-Urban,Delhi,68.31,Low,1,Continue monitoring economic performance
+B412,O412,Retail Shop,Rural,Patna,67.26,Low,1,Strengthen supplier reliability
+B413,O413,Transport Worker,Rural,Ahmedabad,62.69,Medium,1,Improve payment discipline
+B414,O414,Home Business,Peri-Urban,Guwahati,62.47,Medium,3,Improve cash flow management; Reduce operating expenses; Stabilize customer demand
+B415,O415,Transport Worker,Semi-Urban,Delhi,64.04,Medium,3,Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B416,O416,Freelancer,Urban,Bengaluru,75.69,Low,1,Maintain current economic practices
+B417,O417,Artisan,Semi-Urban,Jaipur,62.32,Medium,1,Stabilize customer demand
+B418,O418,Food Vendor,Rural,Bengaluru,66.29,Low,1,Strengthen supplier reliability
+B406,O406,Micro Service Business,Rural,Kochi,76.24,Low,1,Maintain current economic practices
+B419,O419,Retail Shop,Peri-Urban,Indore,68.4,Low,1,Continue monitoring economic performance
+B391,O391,Small Producer,Peri-Urban,Ahmedabad,64.28,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen business continuity
+B389,O389,Food Vendor,Rural,Mumbai,65.75,Medium,2,Stabilize customer demand; Strengthen business continuity
+B363,O363,Transport Worker,Semi-Urban,Indore,60.27,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B364,O364,Retail Shop,Urban,Bengaluru,68.34,Low,1,Improve cash flow management
+B365,O365,Retail Shop,Rural,Lucknow,70.07,Low,1,Continue monitoring economic performance
+B366,O366,Retail Shop,Semi-Urban,Delhi,68.22,Low,1,Continue monitoring economic performance
+B367,O367,Artisan,Semi-Urban,Guwahati,67.41,Low,1,Stabilize customer demand
+B368,O368,Freelancer,Peri-Urban,Bengaluru,75.9,Low,1,Maintain current economic practices
+B369,O369,Transport Worker,Peri-Urban,Jaipur,65.45,Low,1,Strengthen supplier reliability
+B370,O370,Home Business,Urban,Kochi,71.23,Low,1,Continue monitoring economic performance
+B371,O371,Retail Shop,Urban,Mumbai,69.57,Low,1,Continue monitoring economic performance
+B372,O372,Home Business,Rural,Guwahati,69.6,Low,1,Stabilize customer demand
+B373,O373,Transport Worker,Semi-Urban,Bengaluru,68.34,Low,1,Stabilize customer demand
+B374,O374,Artisan,Urban,Kochi,72.59,Low,1,Continue monitoring economic performance
+B390,O390,Retail Shop,Urban,Indore,62.94,Medium,2,Improve cash flow management; Reduce operating expenses
+B375,O375,Artisan,Semi-Urban,Kochi,73.75,Low,1,Stabilize customer demand
+B377,O377,Home Business,Urban,Bengaluru,66.15,Low,1,Improve cash flow management
+B378,O378,Food Vendor,Urban,Delhi,58.55,High,4,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability; Stabilize customer demand
+B379,O379,Retail Shop,Rural,Patna,69.21,Low,1,Continue monitoring economic performance
+B380,O380,Food Vendor,Rural,Lucknow,70.24,Low,1,Continue monitoring economic performance
+B381,O381,Food Vendor,Urban,Lucknow,58.04,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B382,O382,Micro Service Business,Rural,Jaipur,75.49,Low,1,Maintain current economic practices
+B383,O383,Retail Shop,Urban,Jaipur,63.35,Medium,2,Improve cash flow management; Reduce operating expenses
+B384,O384,Freelancer,Peri-Urban,Lucknow,78.15,Low,1,Maintain current economic practices
+B385,O385,Micro Service Business,Urban,Delhi,69.24,Low,1,Continue monitoring economic performance
+B386,O386,Retail Shop,Rural,Mumbai,67.26,Low,1,Reduce operating expenses
+B387,O387,Freelancer,Urban,Ahmedabad,77.76,Low,1,Maintain current economic practices
+B388,O388,Retail Shop,Rural,Patna,70.89,Low,1,Continue monitoring economic performance
+B376,O376,Food Vendor,Urban,Indore,67.03,Low,1,Continue monitoring economic performance
+B362,O362,Freelancer,Rural,Patna,80.44,Low,1,Maintain current economic practices
+B420,O420,Small Producer,Urban,Delhi,69.42,Medium,2,Improve cash flow management; Stabilize customer demand
+B422,O422,Home Business,Semi-Urban,Indore,70.95,Low,1,Stabilize customer demand
+B453,O453,Small Producer,Urban,Patna,61.33,Medium,2,Improve cash flow management; Stabilize customer demand
+B454,O454,Retail Shop,Rural,Guwahati,69.5,Low,1,Stabilize customer demand
+B455,O455,Micro Service Business,Semi-Urban,Delhi,66.38,Medium,2,Improve cash flow management; Reduce operating expenses
+B456,O456,Food Vendor,Urban,Bengaluru,57.19,Medium,3,Improve cash flow management; Reduce operating expenses; Stabilize customer demand
+B457,O457,Home Business,Semi-Urban,Jaipur,71.14,Low,1,Strengthen supplier reliability
+B458,O458,Transport Worker,Semi-Urban,Mumbai,60.61,Medium,3,Improve cash flow management; Stabilize customer demand; Strengthen business continuity
+B459,O459,Micro Service Business,Rural,Jaipur,76.97,Low,1,Maintain current economic practices
+B460,O460,Transport Worker,Rural,Indore,64.88,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B461,O461,Food Vendor,Urban,Bengaluru,54.49,High,4,Improve cash flow management; Reduce operating expenses; Improve payment discipline; Stabilize customer demand
+B462,O462,Retail Shop,Urban,Patna,72.58,Low,1,Improve cash flow management
+B463,O463,Retail Shop,Rural,Guwahati,66.99,Medium,2,Reduce operating expenses; Stabilize customer demand
+B464,O464,Small Producer,Semi-Urban,Guwahati,62.81,Medium,1,Continue monitoring economic performance
+B452,O452,Retail Shop,Semi-Urban,Mumbai,62.93,Medium,2,Improve cash flow management; Reduce operating expenses
+B465,O465,Transport Worker,Urban,Guwahati,68.02,Low,1,Continue monitoring economic performance
+B467,O467,Retail Shop,Rural,Delhi,69.06,Low,1,Strengthen supplier reliability
+B468,O468,Freelancer,Urban,Lucknow,75.75,Low,1,Maintain current economic practices
+B469,O469,Micro Service Business,Peri-Urban,Kochi,63.96,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B470,O470,Food Vendor,Urban,Ahmedabad,70.22,Low,1,Continue monitoring economic performance
+B471,O471,Artisan,Rural,Mumbai,68.71,Low,1,Continue monitoring economic performance
+B472,O472,Home Business,Semi-Urban,Delhi,66.42,Low,1,Improve cash flow management
+B473,O473,Transport Worker,Urban,Patna,65.07,Low,1,Continue monitoring economic performance
+B474,O474,Small Producer,Peri-Urban,Mumbai,60.15,Medium,2,Improve cash flow management; Reduce operating expenses
+B475,O475,Freelancer,Semi-Urban,Guwahati,80.16,Low,1,Maintain current economic practices
+B476,O476,Home Business,Peri-Urban,Jaipur,70.64,Low,1,Stabilize customer demand
+B477,O477,Small Producer,Rural,Patna,63.66,Medium,2,Improve cash flow management; Reduce operating expenses
+B478,O478,Artisan,Urban,Mumbai,56.77,Medium,3,Improve cash flow management; Reduce operating expenses; Improve payment discipline
+B466,O466,Artisan,Urban,Bengaluru,67.56,Low,1,Continue monitoring economic performance
+B421,O421,Retail Shop,Semi-Urban,Guwahati,68.7,Low,1,Continue monitoring economic performance
+B451,O451,Artisan,Urban,Jaipur,61.82,Medium,2,Improve payment discipline; Stabilize customer demand
+B449,O449,Micro Service Business,Peri-Urban,Lucknow,74.18,Low,1,Continue monitoring economic performance
+B423,O423,Micro Service Business,Urban,Kochi,72.22,Low,1,Continue monitoring economic performance
+B424,O424,Retail Shop,Peri-Urban,Kochi,72.96,Low,1,Reduce operating expenses
+B425,O425,Home Business,Peri-Urban,Bengaluru,70.17,Low,1,Continue monitoring economic performance
+B426,O426,Retail Shop,Urban,Ahmedabad,73.95,Low,1,Continue monitoring economic performance
+B427,O427,Transport Worker,Urban,Mumbai,64.76,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B428,O428,Retail Shop,Semi-Urban,Ahmedabad,67.31,Low,1,Strengthen supplier reliability
+B429,O429,Artisan,Semi-Urban,Patna,66.55,Low,1,Continue monitoring economic performance
+B430,O430,Home Business,Semi-Urban,Ahmedabad,68.05,Low,1,Stabilize customer demand
+B431,O431,Small Producer,Rural,Patna,59.0,High,5,Improve payment discipline; Strengthen supplier reliability; Stabilize customer demand; Strengthen business continuity; Build financial resilience
+B432,O432,Retail Shop,Rural,Patna,69.33,Medium,3,Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B433,O433,Freelancer,Rural,Guwahati,78.74,Low,1,Stabilize customer demand
+B434,O434,Micro Service Business,Urban,Delhi,75.38,Low,1,Maintain current economic practices
+B450,O450,Freelancer,Rural,Guwahati,80.64,Low,1,Maintain current economic practices
+B435,O435,Retail Shop,Semi-Urban,Guwahati,62.44,Medium,2,Improve cash flow management; Reduce operating expenses
+B437,O437,Artisan,Semi-Urban,Indore,66.15,Medium,3,Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B438,O438,Artisan,Rural,Kochi,62.93,High,5,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B439,O439,Retail Shop,Rural,Patna,71.51,Low,1,Continue monitoring economic performance
+B440,O440,Freelancer,Rural,Guwahati,77.14,Low,1,Strengthen supplier reliability
+B441,O441,Retail Shop,Urban,Indore,66.32,Medium,3,Improve cash flow management; Reduce operating expenses; Stabilize customer demand
+B442,O442,Small Producer,Urban,Guwahati,66.48,Medium,3,Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B443,O443,Artisan,Rural,Ahmedabad,70.84,Low,1,Continue monitoring economic performance
+B444,O444,Food Vendor,Semi-Urban,Jaipur,65.29,Low,1,Stabilize customer demand
+B445,O445,Freelancer,Rural,Bengaluru,73.23,Low,1,Improve payment discipline
+B446,O446,Micro Service Business,Urban,Mumbai,67.28,Medium,2,Improve cash flow management; Strengthen supplier reliability
+B447,O447,Food Vendor,Urban,Guwahati,58.93,High,4,Improve cash flow management; Improve payment discipline; Strengthen supplier reliability; Stabilize customer demand
+B448,O448,Freelancer,Rural,Mumbai,79.99,Low,1,Maintain current economic practices
+B436,O436,Small Producer,Semi-Urban,Patna,57.14,Medium,3,Improve cash flow management; Reduce operating expenses; Improve payment discipline
+B361,O361,Retail Shop,Urban,Jaipur,67.06,Medium,2,Improve cash flow management; Reduce operating expenses
+B360,O360,Food Vendor,Urban,Lucknow,54.84,High,4,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability; Stabilize customer demand
+B359,O359,Transport Worker,Peri-Urban,Indore,64.59,Medium,1,Stabilize customer demand
+B272,O272,Transport Worker,Rural,Guwahati,70.09,Low,1,Continue monitoring economic performance
+B273,O273,Artisan,Peri-Urban,Patna,70.56,Low,1,Stabilize customer demand
+B274,O274,Freelancer,Semi-Urban,Guwahati,78.3,Low,1,Maintain current economic practices
+B275,O275,Freelancer,Urban,Delhi,75.99,Low,1,Stabilize customer demand
+B276,O276,Small Producer,Peri-Urban,Guwahati,61.23,Medium,3,Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B277,O277,Small Producer,Urban,Indore,68.33,Low,1,Continue monitoring economic performance
+B278,O278,Small Producer,Peri-Urban,Jaipur,64.65,Medium,1,Continue monitoring economic performance
+B279,O279,Artisan,Peri-Urban,Jaipur,71.19,Low,1,Continue monitoring economic performance
+B280,O280,Food Vendor,Rural,Lucknow,65.84,Low,1,Continue monitoring economic performance
+B281,O281,Freelancer,Peri-Urban,Mumbai,74.02,Low,1,Stabilize customer demand
+B282,O282,Transport Worker,Semi-Urban,Mumbai,60.02,Medium,3,Improve payment discipline; Strengthen supplier reliability; Stabilize customer demand
+B283,O283,Home Business,Rural,Delhi,74.54,Low,1,Continue monitoring economic performance
+B271,O271,Transport Worker,Semi-Urban,Mumbai,67.52,Low,1,Continue monitoring economic performance
+B284,O284,Transport Worker,Urban,Indore,63.16,Medium,3,Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B286,O286,Home Business,Semi-Urban,Patna,73.37,Low,1,Continue monitoring economic performance
+B287,O287,Artisan,Rural,Mumbai,68.29,Low,1,Continue monitoring economic performance
+B288,O288,Home Business,Peri-Urban,Jaipur,62.77,Medium,1,Improve cash flow management
+B289,O289,Small Producer,Rural,Guwahati,59.15,Medium,3,Improve cash flow management; Reduce operating expenses; Stabilize customer demand
+B290,O290,Freelancer,Semi-Urban,Guwahati,76.55,Low,1,Maintain current economic practices
+B291,O291,Small Producer,Urban,Lucknow,66.05,Medium,2,Improve cash flow management; Stabilize customer demand
+B292,O292,Freelancer,Rural,Indore,77.08,Low,1,Strengthen supplier reliability
+B293,O293,Small Producer,Urban,Indore,54.26,High,6,Improve cash flow management; Improve payment discipline; Strengthen supplier reliability; Stabilize customer demand; Strengthen business continuity; Build financial resilience
+B294,O294,Small Producer,Urban,Kochi,56.91,Medium,2,Improve cash flow management; Reduce operating expenses
+B295,O295,Food Vendor,Rural,Ahmedabad,65.17,Low,1,Improve payment discipline
+B296,O296,Food Vendor,Urban,Mumbai,63.64,Medium,2,Improve cash flow management; Stabilize customer demand
+B297,O297,Freelancer,Urban,Indore,73.35,Low,1,Continue monitoring economic performance
+B285,O285,Food Vendor,Urban,Lucknow,58.86,Medium,3,Improve cash flow management; Improve payment discipline; Strengthen supplier reliability
+B298,O298,Home Business,Peri-Urban,Jaipur,68.67,Low,1,Continue monitoring economic performance
+B270,O270,Food Vendor,Semi-Urban,Guwahati,62.1,Medium,1,Improve payment discipline
+B268,O268,Retail Shop,Semi-Urban,Kochi,73.28,Medium,2,Improve cash flow management; Reduce operating expenses
+B241,O241,Small Producer,Urban,Delhi,63.91,Medium,1,Continue monitoring economic performance
+B242,O242,Transport Worker,Urban,Guwahati,62.07,Medium,1,Improve cash flow management
+B243,O243,Home Business,Urban,Guwahati,67.88,Low,1,Continue monitoring economic performance
+B244,O244,Retail Shop,Peri-Urban,Mumbai,68.32,Medium,2,Reduce operating expenses; Strengthen supplier reliability
+B245,O245,Small Producer,Urban,Guwahati,58.95,High,4,Improve cash flow management; Strengthen supplier reliability; Strengthen business continuity; Build financial resilience
+B246,O246,Food Vendor,Urban,Bengaluru,66.59,Low,1,Improve cash flow management
+B247,O247,Retail Shop,Urban,Delhi,58.92,High,4,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability; Stabilize customer demand
+B248,O248,Retail Shop,Urban,Ahmedabad,67.08,Low,1,Continue monitoring economic performance
+B249,O249,Freelancer,Rural,Guwahati,75.64,Low,1,Stabilize customer demand
+B251,O251,Micro Service Business,Semi-Urban,Bengaluru,67.94,Low,1,Stabilize customer demand
+B252,O252,Freelancer,Rural,Guwahati,69.25,Medium,2,Improve payment discipline; Stabilize customer demand
+B253,O253,Micro Service Business,Peri-Urban,Bengaluru,70.68,Low,1,Continue monitoring economic performance
+B269,O269,Home Business,Semi-Urban,Indore,70.93,Low,1,Strengthen supplier reliability
+B254,O254,Transport Worker,Urban,Kochi,62.01,Medium,3,Improve cash flow management; Improve payment discipline; Stabilize customer demand
+B256,O256,Home Business,Semi-Urban,Indore,74.88,Low,1,Continue monitoring economic performance
+B257,O257,Food Vendor,Urban,Jaipur,65.01,Low,1,Improve cash flow management
+B258,O258,Small Producer,Rural,Jaipur,68.25,Low,1,Continue monitoring economic performance
+B259,O259,Food Vendor,Semi-Urban,Delhi,67.81,Low,1,Continue monitoring economic performance
+B260,O260,Home Business,Rural,Bengaluru,71.19,Low,1,Stabilize customer demand
+B261,O261,Artisan,Urban,Mumbai,65.04,Medium,3,Improve cash flow management; Reduce operating expenses; Stabilize customer demand
+B262,O262,Food Vendor,Semi-Urban,Jaipur,66.78,Low,1,Continue monitoring economic performance
+B263,O263,Small Producer,Semi-Urban,Bengaluru,62.67,Medium,1,Stabilize customer demand
+B264,O264,Retail Shop,Urban,Bengaluru,64.16,Medium,3,Improve cash flow management; Reduce operating expenses; Stabilize customer demand
+B265,O265,Food Vendor,Rural,Lucknow,57.95,Medium,3,Improve cash flow management; Reduce operating expenses; Improve payment discipline
+B266,O266,Transport Worker,Peri-Urban,Lucknow,64.12,Medium,1,Strengthen supplier reliability
+B267,O267,Home Business,Urban,Indore,70.64,Low,1,Continue monitoring economic performance
+B255,O255,Freelancer,Peri-Urban,Ahmedabad,78.11,Low,1,Maintain current economic practices
+B299,O299,Micro Service Business,Peri-Urban,Lucknow,72.92,Low,1,Stabilize customer demand
+B300,O300,Micro Service Business,Peri-Urban,Patna,67.85,Medium,2,Improve cash flow management; Reduce operating expenses
+B301,O301,Home Business,Semi-Urban,Kochi,67.99,Low,1,Stabilize customer demand
+B333,O333,Retail Shop,Semi-Urban,Delhi,58.34,Medium,2,Improve cash flow management; Reduce operating expenses
+B334,O334,Retail Shop,Semi-Urban,Indore,66.81,Low,1,Stabilize customer demand
+B335,O335,Food Vendor,Semi-Urban,Ahmedabad,62.26,Medium,1,Stabilize customer demand
+B336,O336,Food Vendor,Urban,Kochi,67.44,Low,1,Improve cash flow management
+B337,O337,Small Producer,Semi-Urban,Patna,59.8,Medium,3,Strengthen supplier reliability; Stabilize customer demand; Build financial resilience
+B338,O338,Small Producer,Urban,Guwahati,61.05,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B339,O339,Transport Worker,Rural,Indore,70.91,Low,1,Strengthen supplier reliability
+B340,O340,Retail Shop,Rural,Patna,68.85,Low,1,Reduce operating expenses
+B341,O341,Retail Shop,Rural,Kochi,70.9,Low,1,Continue monitoring economic performance
+B342,O342,Artisan,Urban,Indore,69.68,Low,1,Continue monitoring economic performance
+B343,O343,Micro Service Business,Rural,Ahmedabad,72.72,Low,1,Continue monitoring economic performance
+B344,O344,Small Producer,Rural,Kochi,70.58,Low,1,Continue monitoring economic performance
+B332,O332,Retail Shop,Urban,Mumbai,61.9,Medium,2,Improve cash flow management; Reduce operating expenses
+B345,O345,Food Vendor,Urban,Bengaluru,64.35,High,4,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability; Stabilize customer demand
+B347,O347,Micro Service Business,Urban,Ahmedabad,66.06,Low,1,Improve cash flow management
+B348,O348,Home Business,Urban,Indore,70.58,Medium,2,Improve cash flow management; Strengthen supplier reliability
+B349,O349,Transport Worker,Urban,Guwahati,55.77,Medium,3,Improve cash flow management; Improve payment discipline; Stabilize customer demand
+B350,O350,Artisan,Semi-Urban,Patna,64.1,Medium,1,Stabilize customer demand
+B351,O351,Artisan,Rural,Delhi,68.91,Low,1,Stabilize customer demand
+B352,O352,Home Business,Semi-Urban,Patna,69.98,Low,1,Stabilize customer demand
+B353,O353,Retail Shop,Urban,Indore,67.44,Low,1,Continue monitoring economic performance
+B354,O354,Artisan,Peri-Urban,Patna,67.53,Low,1,Continue monitoring economic performance
+B355,O355,Home Business,Urban,Mumbai,64.43,Medium,2,Improve payment discipline; Stabilize customer demand
+B356,O356,Food Vendor,Urban,Kochi,68.91,Low,1,Improve cash flow management
+B357,O357,Transport Worker,Urban,Delhi,65.21,Low,1,Stabilize customer demand
+B358,O358,Home Business,Semi-Urban,Jaipur,74.23,Low,1,Continue monitoring economic performance
+B346,O346,Retail Shop,Rural,Mumbai,67.37,Low,1,Reduce operating expenses
+B331,O331,Food Vendor,Urban,Kochi,63.71,Medium,2,Strengthen supplier reliability; Stabilize customer demand
+B330,O330,Small Producer,Semi-Urban,Ahmedabad,64.31,Medium,1,Continue monitoring economic performance
+B329,O329,Transport Worker,Rural,Lucknow,65.76,Low,1,Stabilize customer demand
+B302,O302,Transport Worker,Rural,Bengaluru,63.81,Medium,1,Stabilize customer demand
+B303,O303,Freelancer,Semi-Urban,Delhi,76.55,Low,1,Strengthen supplier reliability
+B304,O304,Food Vendor,Semi-Urban,Patna,54.15,Medium,3,Improve cash flow management; Reduce operating expenses; Improve payment discipline
+B305,O305,Food Vendor,Urban,Bengaluru,61.6,Medium,1,Strengthen supplier reliability
+B306,O306,Transport Worker,Urban,Guwahati,60.5,Medium,2,Stabilize customer demand; Build financial resilience
+B307,O307,Artisan,Rural,Delhi,55.7,High,4,Improve cash flow management; Reduce operating expenses; Improve payment discipline; Stabilize customer demand
+B308,O308,Transport Worker,Rural,Mumbai,70.29,Low,1,Continue monitoring economic performance
+B309,O309,Food Vendor,Peri-Urban,Jaipur,63.32,Medium,1,Stabilize customer demand
+B310,O310,Food Vendor,Rural,Delhi,62.46,Medium,3,Improve cash flow management; Reduce operating expenses; Strengthen supplier reliability
+B311,O311,Small Producer,Peri-Urban,Ahmedabad,67.38,Low,1,Continue monitoring economic performance
+B312,O312,Transport Worker,Rural,Bengaluru,67.76,Low,1,Continue monitoring economic performance
+B313,O313,Home Business,Urban,Mumbai,75.93,Low,1,Maintain current economic practices
+B314,O314,Small Producer,Urban,Ahmedabad,63.81,Medium,1,Continue monitoring economic performance
+B315,O315,Food Vendor,Rural,Guwahati,65.98,Low,1,Stabilize customer demand
+B316,O316,Artisan,Semi-Urban,Ahmedabad,63.1,Medium,1,Strengthen supplier reliability
+B317,O317,Home Business,Rural,Kochi,76.47,Low,1,Stabilize customer demand
+B318,O318,Food Vendor,Urban,Kochi,67.91,Low,1,Continue monitoring economic performance
+B319,O319,Small Producer,Rural,Lucknow,66.67,Low,1,Strengthen supplier reliability
+B320,O320,Freelancer,Urban,Patna,80.43,Low,1,Maintain current economic practices
+B321,O321,Food Vendor,Urban,Patna,63.92,Medium,2,Improve cash flow management; Stabilize customer demand
+B322,O322,Micro Service Business,Rural,Mumbai,73.31,Low,1,Continue monitoring economic performance
+B323,O323,Retail Shop,Semi-Urban,Guwahati,67.4,Low,1,Reduce operating expenses
+B324,O324,Micro Service Business,Peri-Urban,Indore,72.71,Low,1,Continue monitoring economic performance
+B325,O325,Retail Shop,Peri-Urban,Kochi,67.59,Low,1,Reduce operating expenses
+B326,O326,Artisan,Urban,Mumbai,64.88,Medium,1,Strengthen supplier reliability
+B327,O327,Retail Shop,Urban,Indore,71.65,Low,1,Improve cash flow management
+B328,O328,Artisan,Rural,Patna,55.77,High,4,Improve cash flow management; Reduce operating expenses; Improve payment discipline; Stabilize customer demand
+B480,O480,Food Vendor,Urban,Mumbai,68.1,Medium,2,Improve cash flow management; Stabilize customer demand
+B500,O500,Food Vendor,Urban,Mumbai,66.57,Low,1,Stabilize customer demand
