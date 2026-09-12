@@ -299,7 +299,7 @@ Explore anonymized patterns within the informal economy and financial inclusion 
 
 * [x] Business Twin Simulator
 * [x] Economic Knowledge Graph
-* [ ] Recommendation Engine
+* [x] Recommendation Engine
 * [ ] Explainable AI layer
 
 ### Phase 4 — Application
