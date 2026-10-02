@@ -110,7 +110,7 @@ TrustMesh AI is currently under active development.
 * [x] Business Twin Simulator
 * [x] Knowledge Graph
 * [x] Recommendation Engine
-* [ ] Explainable AI
+* [x] Explainable AI
 * [ ] Interactive Dashboard
 
 > Features and research components will be added incrementally as the project evolves.
