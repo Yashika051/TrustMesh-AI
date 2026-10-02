@@ -1,0 +1,501 @@
+business_id,owner_id,business_type,environment_type,location,economic_reputation_index,reputation_status,explanation_count,explanation
+B490,O490,Micro Service Business,Semi-Urban,Ahmedabad,72.3,Moderate,1,No major weaknesses identified
+B481,O481,Food Vendor,Semi-Urban,Jaipur,55.48,Weak,4,Low cash-flow margin; High expense burden; Weak payment discipline; Unstable demand
+B486,O486,Retail Shop,Urban,Ahmedabad,61.81,Moderate,2,Low cash-flow margin; High expense burden
+B497,O497,Artisan,Semi-Urban,Bengaluru,67.35,Moderate,1,No major weaknesses identified
+B493,O493,Retail Shop,Urban,Indore,66.4,Moderate,2,Low supplier reliability; Unstable demand
+B495,O495,Retail Shop,Peri-Urban,Delhi,63.82,Moderate,1,No major weaknesses identified
+B484,O484,Retail Shop,Rural,Delhi,70.02,Moderate,2,High expense burden; Low supplier reliability
+B491,O491,Food Vendor,Rural,Guwahati,66.87,Moderate,1,No major weaknesses identified
+B485,O485,Small Producer,Peri-Urban,Indore,63.59,Moderate,1,Weak payment discipline
+B499,O499,Home Business,Peri-Urban,Lucknow,68.45,Moderate,1,Unstable demand
+B498,O498,Small Producer,Urban,Mumbai,60.57,Moderate,3,Low cash-flow margin; Low supplier reliability; Lower economic resilience
+B492,O492,Micro Service Business,Semi-Urban,Lucknow,69.27,Moderate,1,Low cash-flow margin
+B494,O494,Transport Worker,Urban,Delhi,61.65,Moderate,3,Low supplier reliability; Unstable demand; Lower economic resilience
+B482,O482,Food Vendor,Rural,Guwahati,61.13,Moderate,3,Weak payment discipline; Low supplier reliability; Unstable demand
+B496,O496,Food Vendor,Rural,Jaipur,64.85,Moderate,1,Low supplier reliability
+B489,O489,Transport Worker,Semi-Urban,Patna,66.1,Moderate,1,No major weaknesses identified
+B487,O487,Micro Service Business,Rural,Bengaluru,71.09,Moderate,1,No major weaknesses identified
+B483,O483,Small Producer,Urban,Lucknow,62.01,Moderate,2,Low cash-flow margin; Low supplier reliability
+B488,O488,Freelancer,Peri-Urban,Ahmedabad,77.32,Strong,1,No major weaknesses identified
+B250,O250,Food Vendor,Rural,Jaipur,65.26,Moderate,1,Low supplier reliability
+B479,O479,Freelancer,Rural,Guwahati,78.68,Strong,1,No major weaknesses identified
+B151,O151,Retail Shop,Rural,Kochi,67.07,Moderate,1,No major weaknesses identified
+B152,O152,Food Vendor,Semi-Urban,Guwahati,61.97,Moderate,2,Low supplier reliability; Unstable demand
+B153,O153,Retail Shop,Semi-Urban,Delhi,65.19,Moderate,1,Unstable demand
+B154,O154,Retail Shop,Rural,Indore,68.97,Moderate,1,High expense burden
+B155,O155,Micro Service Business,Rural,Indore,71.56,Moderate,1,No major weaknesses identified
+B156,O156,Small Producer,Urban,Patna,67.0,Moderate,2,Low cash-flow margin; Unstable demand
+B157,O157,Retail Shop,Rural,Lucknow,68.23,Moderate,1,High expense burden
+B158,O158,Transport Worker,Rural,Kochi,72.1,Moderate,1,No major weaknesses identified
+B159,O159,Home Business,Urban,Guwahati,68.75,Moderate,1,Low cash-flow margin
+B160,O160,Retail Shop,Rural,Ahmedabad,66.97,Moderate,1,Low supplier reliability
+B161,O161,Food Vendor,Rural,Delhi,68.21,Moderate,1,No major weaknesses identified
+B162,O162,Freelancer,Semi-Urban,Kochi,72.36,Moderate,1,No major weaknesses identified
+B150,O150,Home Business,Rural,Ahmedabad,71.17,Moderate,1,No major weaknesses identified
+B163,O163,Home Business,Urban,Guwahati,66.33,Moderate,1,Low supplier reliability
+B165,O165,Home Business,Urban,Bengaluru,62.9,Moderate,2,Low cash-flow margin; Unstable demand
+B166,O166,Micro Service Business,Urban,Indore,69.55,Moderate,1,No major weaknesses identified
+B167,O167,Retail Shop,Urban,Ahmedabad,70.9,Moderate,2,Low cash-flow margin; High expense burden
+B168,O168,Retail Shop,Rural,Indore,63.92,Moderate,2,Weak payment discipline; Low supplier reliability
+B169,O169,Micro Service Business,Rural,Ahmedabad,73.68,Moderate,1,Unstable demand
+B170,O170,Food Vendor,Rural,Patna,61.87,Moderate,1,Weak payment discipline
+B171,O171,Retail Shop,Urban,Lucknow,66.54,Moderate,1,No major weaknesses identified
+B172,O172,Food Vendor,Urban,Ahmedabad,59.05,Weak,3,Low cash-flow margin; Weak payment discipline; Low supplier reliability
+B173,O173,Micro Service Business,Peri-Urban,Indore,64.06,Moderate,1,Low supplier reliability
+B174,O174,Food Vendor,Semi-Urban,Patna,57.09,Weak,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B175,O175,Food Vendor,Rural,Ahmedabad,63.27,Moderate,2,Low cash-flow margin; High expense burden
+B176,O176,Food Vendor,Urban,Jaipur,61.48,Moderate,2,Low cash-flow margin; Weak payment discipline
+B164,O164,Retail Shop,Semi-Urban,Jaipur,70.63,Moderate,1,High expense burden
+B177,O177,Small Producer,Urban,Lucknow,65.72,Moderate,3,Low supplier reliability; Unstable demand; Lower economic resilience
+B149,O149,Artisan,Peri-Urban,Bengaluru,69.92,Moderate,1,Low supplier reliability
+B147,O147,Retail Shop,Urban,Kochi,66.68,Moderate,1,Low cash-flow margin
+B121,O121,Transport Worker,Semi-Urban,Patna,60.99,Moderate,4,Weak payment discipline; Low supplier reliability; Unstable demand; Lower economic resilience
+B122,O122,Food Vendor,Semi-Urban,Indore,65.95,Moderate,1,Unstable demand
+B123,O123,Freelancer,Rural,Lucknow,79.0,Strong,1,No major weaknesses identified
+B124,O124,Food Vendor,Semi-Urban,Patna,64.81,Moderate,2,Low supplier reliability; Unstable demand
+B125,O125,Transport Worker,Urban,Bengaluru,63.12,Moderate,1,Unstable demand
+B126,O126,Transport Worker,Semi-Urban,Kochi,61.39,Moderate,1,Weak payment discipline
+B127,O127,Home Business,Peri-Urban,Kochi,72.92,Moderate,2,Low supplier reliability; Unstable demand
+B128,O128,Transport Worker,Peri-Urban,Bengaluru,60.41,Moderate,5,Weak payment discipline; Low supplier reliability; Unstable demand; Lower business continuity; Lower economic resilience
+B129,O129,Food Vendor,Urban,Guwahati,58.69,Weak,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B130,O130,Freelancer,Peri-Urban,Patna,74.07,Moderate,1,No major weaknesses identified
+B131,O131,Retail Shop,Rural,Patna,69.09,Moderate,1,No major weaknesses identified
+B132,O132,Food Vendor,Peri-Urban,Bengaluru,59.86,Weak,2,Weak payment discipline; Low supplier reliability
+B148,O148,Transport Worker,Peri-Urban,Jaipur,60.77,Moderate,5,Low cash-flow margin; Low supplier reliability; Unstable demand; Lower business continuity; Lower economic resilience
+B133,O133,Micro Service Business,Urban,Mumbai,60.5,Moderate,2,Low cash-flow margin; High expense burden
+B135,O135,Food Vendor,Rural,Delhi,66.74,Moderate,1,No major weaknesses identified
+B136,O136,Retail Shop,Urban,Bengaluru,67.55,Moderate,1,No major weaknesses identified
+B137,O137,Transport Worker,Peri-Urban,Lucknow,70.69,Moderate,1,No major weaknesses identified
+B138,O138,Retail Shop,Rural,Lucknow,68.47,Moderate,1,High expense burden
+B139,O139,Retail Shop,Rural,Indore,68.66,Moderate,1,No major weaknesses identified
+B140,O140,Artisan,Rural,Bengaluru,66.83,Moderate,1,Unstable demand
+B141,O141,Retail Shop,Urban,Indore,68.25,Moderate,1,No major weaknesses identified
+B142,O142,Transport Worker,Rural,Bengaluru,68.08,Moderate,1,No major weaknesses identified
+B143,O143,Micro Service Business,Peri-Urban,Patna,69.5,Moderate,1,No major weaknesses identified
+B144,O144,Retail Shop,Rural,Delhi,68.29,Moderate,1,No major weaknesses identified
+B145,O145,Artisan,Semi-Urban,Patna,61.79,Moderate,3,Low cash-flow margin; Weak payment discipline; Low supplier reliability
+B146,O146,Artisan,Rural,Ahmedabad,63.36,Moderate,1,Unstable demand
+B134,O134,Artisan,Semi-Urban,Ahmedabad,69.43,Moderate,1,No major weaknesses identified
+B120,O120,Retail Shop,Urban,Lucknow,63.98,Moderate,2,Low cash-flow margin; Unstable demand
+B178,O178,Transport Worker,Urban,Ahmedabad,62.55,Moderate,2,Low cash-flow margin; Unstable demand
+B180,O180,Small Producer,Urban,Kochi,64.5,Moderate,1,No major weaknesses identified
+B211,O211,Artisan,Peri-Urban,Delhi,73.42,Moderate,1,Low supplier reliability
+B212,O212,Food Vendor,Urban,Guwahati,62.49,Moderate,3,Low cash-flow margin; High expense burden; Unstable demand
+B213,O213,Freelancer,Semi-Urban,Delhi,75.52,Strong,1,No major weaknesses identified
+B214,O214,Freelancer,Urban,Guwahati,72.54,Moderate,1,No major weaknesses identified
+B215,O215,Artisan,Peri-Urban,Jaipur,69.78,Moderate,1,No major weaknesses identified
+B216,O216,Small Producer,Rural,Bengaluru,66.21,Moderate,1,Lower business continuity
+B217,O217,Small Producer,Urban,Jaipur,62.74,Moderate,1,Low cash-flow margin
+B218,O218,Transport Worker,Semi-Urban,Delhi,67.76,Moderate,1,No major weaknesses identified
+B219,O219,Small Producer,Peri-Urban,Bengaluru,56.39,Weak,4,Low cash-flow margin; High expense burden; Weak payment discipline; Low supplier reliability
+B220,O220,Transport Worker,Rural,Jaipur,62.53,Moderate,2,Weak payment discipline; Unstable demand
+B221,O221,Small Producer,Rural,Mumbai,63.8,Moderate,1,Low supplier reliability
+B222,O222,Artisan,Urban,Delhi,63.61,Moderate,1,Unstable demand
+B210,O210,Small Producer,Urban,Bengaluru,58.83,Weak,2,Low cash-flow margin; Lower business continuity
+B223,O223,Retail Shop,Rural,Jaipur,64.33,Moderate,2,High expense burden; Low supplier reliability
+B225,O225,Food Vendor,Urban,Mumbai,65.33,Moderate,1,Low cash-flow margin
+B226,O226,Small Producer,Rural,Kochi,64.77,Moderate,1,Unstable demand
+B227,O227,Artisan,Peri-Urban,Delhi,67.86,Moderate,2,Low supplier reliability; Unstable demand
+B228,O228,Home Business,Semi-Urban,Mumbai,70.5,Moderate,1,Unstable demand
+B229,O229,Artisan,Semi-Urban,Kochi,68.77,Moderate,1,Unstable demand
+B230,O230,Retail Shop,Semi-Urban,Jaipur,65.93,Moderate,1,No major weaknesses identified
+B231,O231,Food Vendor,Urban,Lucknow,71.3,Moderate,1,Low cash-flow margin
+B232,O232,Retail Shop,Urban,Delhi,68.66,Moderate,2,Low cash-flow margin; High expense burden
+B233,O233,Home Business,Rural,Bengaluru,73.29,Moderate,1,No major weaknesses identified
+B234,O234,Retail Shop,Urban,Guwahati,57.78,Weak,3,Low cash-flow margin; High expense burden; Unstable demand
+B235,O235,Small Producer,Peri-Urban,Guwahati,65.19,Moderate,1,Low supplier reliability
+B236,O236,Small Producer,Peri-Urban,Jaipur,68.43,Moderate,1,Unstable demand
+B224,O224,Transport Worker,Urban,Mumbai,59.15,Weak,3,Low cash-flow margin; Weak payment discipline; Unstable demand
+B179,O179,Food Vendor,Peri-Urban,Patna,66.05,Moderate,1,Unstable demand
+B209,O209,Micro Service Business,Rural,Kochi,67.83,Moderate,1,No major weaknesses identified
+B207,O207,Transport Worker,Peri-Urban,Lucknow,65.31,Moderate,2,Unstable demand; Lower economic resilience
+B181,O181,Small Producer,Urban,Mumbai,63.87,Moderate,2,Low cash-flow margin; Unstable demand
+B182,O182,Transport Worker,Rural,Guwahati,60.31,Moderate,3,Weak payment discipline; Low supplier reliability; Unstable demand
+B183,O183,Home Business,Peri-Urban,Mumbai,71.79,Moderate,1,Unstable demand
+B184,O184,Artisan,Semi-Urban,Mumbai,63.4,Moderate,2,Low supplier reliability; Unstable demand
+B185,O185,Micro Service Business,Urban,Delhi,73.82,Moderate,1,No major weaknesses identified
+B186,O186,Food Vendor,Semi-Urban,Jaipur,64.37,Moderate,1,No major weaknesses identified
+B187,O187,Small Producer,Rural,Kochi,63.82,Moderate,1,Low supplier reliability
+B188,O188,Retail Shop,Semi-Urban,Bengaluru,58.35,Weak,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B189,O189,Transport Worker,Semi-Urban,Ahmedabad,65.53,Moderate,4,Low supplier reliability; Unstable demand; Lower business continuity; Lower economic resilience
+B190,O190,Food Vendor,Semi-Urban,Guwahati,62.8,Moderate,2,Weak payment discipline; Low supplier reliability
+B191,O191,Micro Service Business,Urban,Lucknow,65.48,Moderate,1,No major weaknesses identified
+B192,O192,Small Producer,Urban,Kochi,65.18,Moderate,1,Low cash-flow margin
+B208,O208,Retail Shop,Semi-Urban,Kochi,65.49,Moderate,1,No major weaknesses identified
+B193,O193,Home Business,Semi-Urban,Indore,65.13,Moderate,1,Unstable demand
+B195,O195,Food Vendor,Rural,Delhi,61.38,Moderate,3,Low cash-flow margin; High expense burden; Weak payment discipline
+B196,O196,Artisan,Urban,Delhi,67.74,Moderate,1,No major weaknesses identified
+B197,O197,Food Vendor,Urban,Kochi,68.06,Moderate,2,Low cash-flow margin; Unstable demand
+B198,O198,Retail Shop,Rural,Patna,66.19,Moderate,2,Low cash-flow margin; High expense burden
+B199,O199,Food Vendor,Urban,Mumbai,64.24,Moderate,1,Low cash-flow margin
+B200,O200,Small Producer,Semi-Urban,Indore,60.94,Moderate,1,Weak payment discipline
+B201,O201,Micro Service Business,Urban,Delhi,76.58,Strong,1,No major weaknesses identified
+B202,O202,Retail Shop,Urban,Guwahati,68.74,Moderate,2,Low cash-flow margin; High expense burden
+B203,O203,Artisan,Urban,Delhi,70.99,Moderate,1,No major weaknesses identified
+B204,O204,Food Vendor,Urban,Lucknow,67.22,Moderate,2,Low cash-flow margin; High expense burden
+B205,O205,Food Vendor,Semi-Urban,Ahmedabad,66.1,Moderate,1,No major weaknesses identified
+B206,O206,Transport Worker,Rural,Delhi,67.7,Moderate,1,No major weaknesses identified
+B194,O194,Artisan,Semi-Urban,Bengaluru,66.1,Moderate,1,Low supplier reliability
+B237,O237,Freelancer,Urban,Patna,74.77,Moderate,1,No major weaknesses identified
+B119,O119,Food Vendor,Urban,Lucknow,61.02,Moderate,3,Low cash-flow margin; High expense burden; Unstable demand
+B117,O117,Artisan,Urban,Jaipur,65.14,Moderate,2,Low cash-flow margin; High expense burden
+B031,O031,Micro Service Business,Urban,Ahmedabad,72.37,Moderate,1,No major weaknesses identified
+B032,O032,Freelancer,Urban,Bengaluru,76.93,Strong,1,No major weaknesses identified
+B033,O033,Home Business,Semi-Urban,Kochi,63.82,Moderate,1,Low cash-flow margin
+B034,O034,Food Vendor,Semi-Urban,Guwahati,63.74,Moderate,1,Unstable demand
+B035,O035,Retail Shop,Rural,Jaipur,70.28,Moderate,1,No major weaknesses identified
+B036,O036,Freelancer,Semi-Urban,Delhi,77.12,Strong,1,No major weaknesses identified
+B037,O037,Home Business,Urban,Indore,68.11,Moderate,1,Unstable demand
+B038,O038,Retail Shop,Semi-Urban,Mumbai,74.68,Moderate,1,High expense burden
+B039,O039,Transport Worker,Urban,Indore,59.09,Weak,2,Low cash-flow margin; Weak payment discipline
+B040,O040,Retail Shop,Semi-Urban,Bengaluru,70.94,Moderate,1,No major weaknesses identified
+B041,O041,Small Producer,Semi-Urban,Ahmedabad,62.02,Moderate,1,Unstable demand
+B042,O042,Retail Shop,Semi-Urban,Mumbai,69.34,Moderate,1,No major weaknesses identified
+B030,O030,Freelancer,Peri-Urban,Delhi,75.48,Strong,1,No major weaknesses identified
+B043,O043,Micro Service Business,Urban,Jaipur,73.07,Moderate,1,No major weaknesses identified
+B045,O045,Retail Shop,Peri-Urban,Delhi,69.55,Moderate,2,Low cash-flow margin; High expense burden
+B046,O046,Retail Shop,Rural,Bengaluru,69.19,Moderate,1,High expense burden
+B047,O047,Retail Shop,Peri-Urban,Kochi,73.55,Moderate,1,No major weaknesses identified
+B048,O048,Retail Shop,Urban,Bengaluru,63.94,Moderate,2,Low supplier reliability; Unstable demand
+B049,O049,Home Business,Rural,Ahmedabad,74.84,Moderate,1,No major weaknesses identified
+B050,O050,Retail Shop,Rural,Indore,63.72,Moderate,3,High expense burden; Low supplier reliability; Unstable demand
+B051,O051,Retail Shop,Urban,Jaipur,72.43,Moderate,1,No major weaknesses identified
+B052,O052,Transport Worker,Peri-Urban,Indore,65.36,Moderate,1,Unstable demand
+B053,O053,Food Vendor,Urban,Indore,58.22,Weak,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B054,O054,Home Business,Rural,Indore,69.44,Moderate,1,Unstable demand
+B055,O055,Transport Worker,Rural,Jaipur,64.64,Moderate,1,Unstable demand
+B056,O056,Retail Shop,Urban,Patna,65.22,Moderate,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B044,O044,Transport Worker,Semi-Urban,Jaipur,58.47,Weak,4,Low cash-flow margin; High expense burden; Low supplier reliability; Unstable demand
+B057,O057,Food Vendor,Semi-Urban,Lucknow,66.02,Moderate,1,Unstable demand
+B029,O029,Food Vendor,Rural,Ahmedabad,54.79,Weak,5,Low cash-flow margin; High expense burden; Low supplier reliability; Unstable demand; Lower economic resilience
+B027,O027,Micro Service Business,Rural,Delhi,69.39,Moderate,1,No major weaknesses identified
+B001,O001,Small Producer,Rural,Patna,67.2,Moderate,1,Low supplier reliability
+B002,O002,Retail Shop,Peri-Urban,Kochi,69.52,Moderate,1,No major weaknesses identified
+B003,O003,Small Producer,Urban,Lucknow,64.9,Moderate,2,Low cash-flow margin; Unstable demand
+B004,O004,Food Vendor,Semi-Urban,Jaipur,60.3,Moderate,2,Low cash-flow margin; High expense burden
+B005,O005,Food Vendor,Urban,Lucknow,59.99,Weak,2,Low cash-flow margin; High expense burden
+B006,O006,Small Producer,Rural,Delhi,65.66,Moderate,1,Unstable demand
+B007,O007,Small Producer,Peri-Urban,Lucknow,63.27,Moderate,2,Low supplier reliability; Lower business continuity
+B008,O008,Food Vendor,Rural,Delhi,65.7,Moderate,1,Low supplier reliability
+B009,O009,Retail Shop,Peri-Urban,Delhi,69.18,Moderate,1,No major weaknesses identified
+B010,O010,Micro Service Business,Semi-Urban,Patna,68.41,Moderate,1,No major weaknesses identified
+B011,O011,Retail Shop,Rural,Kochi,64.03,Moderate,2,High expense burden; Weak payment discipline
+B012,O012,Transport Worker,Urban,Indore,66.05,Moderate,1,Low supplier reliability
+B028,O028,Transport Worker,Rural,Indore,68.3,Moderate,2,High expense burden; Unstable demand
+B013,O013,Home Business,Semi-Urban,Lucknow,63.44,Moderate,1,Low cash-flow margin
+B015,O015,Small Producer,Peri-Urban,Delhi,60.59,Moderate,2,Weak payment discipline; Lower business continuity
+B016,O016,Small Producer,Peri-Urban,Kochi,62.06,Moderate,2,Low supplier reliability; Unstable demand
+B017,O017,Micro Service Business,Urban,Mumbai,61.74,Moderate,2,Low cash-flow margin; Weak payment discipline
+B018,O018,Retail Shop,Peri-Urban,Bengaluru,68.54,Moderate,1,High expense burden
+B019,O019,Freelancer,Rural,Patna,77.65,Strong,1,No major weaknesses identified
+B020,O020,Home Business,Semi-Urban,Indore,75.04,Strong,1,No major weaknesses identified
+B021,O021,Micro Service Business,Urban,Guwahati,71.72,Moderate,1,No major weaknesses identified
+B022,O022,Micro Service Business,Rural,Patna,66.25,Moderate,1,No major weaknesses identified
+B023,O023,Artisan,Urban,Mumbai,70.41,Moderate,1,Low cash-flow margin
+B024,O024,Small Producer,Urban,Bengaluru,60.54,Moderate,2,Low cash-flow margin; Weak payment discipline
+B025,O025,Retail Shop,Semi-Urban,Mumbai,67.38,Moderate,1,High expense burden
+B026,O026,Micro Service Business,Urban,Lucknow,76.35,Strong,1,No major weaknesses identified
+B014,O014,Retail Shop,Peri-Urban,Jaipur,65.29,Moderate,2,High expense burden; Unstable demand
+B118,O118,Transport Worker,Semi-Urban,Jaipur,65.86,Moderate,1,Unstable demand
+B058,O058,Retail Shop,Urban,Ahmedabad,70.08,Moderate,2,Low cash-flow margin; High expense burden
+B060,O060,Retail Shop,Urban,Ahmedabad,65.33,Moderate,1,High expense burden
+B091,O091,Small Producer,Peri-Urban,Lucknow,67.74,Moderate,1,No major weaknesses identified
+B092,O092,Micro Service Business,Peri-Urban,Guwahati,73.41,Moderate,1,No major weaknesses identified
+B093,O093,Small Producer,Semi-Urban,Lucknow,63.43,Moderate,2,Low cash-flow margin; High expense burden
+B094,O094,Freelancer,Semi-Urban,Kochi,75.42,Strong,1,No major weaknesses identified
+B095,O095,Home Business,Semi-Urban,Ahmedabad,68.48,Moderate,1,No major weaknesses identified
+B096,O096,Small Producer,Semi-Urban,Delhi,59.45,Weak,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B097,O097,Retail Shop,Rural,Indore,74.71,Moderate,1,No major weaknesses identified
+B098,O098,Retail Shop,Urban,Guwahati,63.61,Moderate,3,Low cash-flow margin; High expense burden; Unstable demand
+B099,O099,Home Business,Rural,Delhi,75.2,Strong,1,No major weaknesses identified
+B100,O100,Retail Shop,Semi-Urban,Lucknow,69.25,Moderate,1,Unstable demand
+B101,O101,Artisan,Urban,Kochi,68.53,Moderate,1,No major weaknesses identified
+B102,O102,Home Business,Peri-Urban,Mumbai,73.22,Moderate,1,No major weaknesses identified
+B090,O090,Artisan,Urban,Delhi,69.29,Moderate,1,Low supplier reliability
+B103,O103,Retail Shop,Semi-Urban,Patna,69.03,Moderate,1,No major weaknesses identified
+B105,O105,Freelancer,Urban,Patna,74.07,Moderate,1,No major weaknesses identified
+B106,O106,Retail Shop,Urban,Delhi,70.61,Moderate,1,High expense burden
+B107,O107,Freelancer,Semi-Urban,Kochi,74.13,Moderate,1,Low supplier reliability
+B108,O108,Transport Worker,Urban,Kochi,64.08,Moderate,1,Unstable demand
+B109,O109,Freelancer,Urban,Lucknow,76.26,Strong,1,Unstable demand
+B110,O110,Food Vendor,Urban,Bengaluru,63.08,Moderate,1,No major weaknesses identified
+B111,O111,Food Vendor,Semi-Urban,Lucknow,64.43,Moderate,4,Low cash-flow margin; High expense burden; Low supplier reliability; Unstable demand
+B112,O112,Home Business,Semi-Urban,Bengaluru,72.76,Moderate,2,Low supplier reliability; Unstable demand
+B113,O113,Freelancer,Semi-Urban,Bengaluru,73.36,Moderate,1,Low supplier reliability
+B114,O114,Retail Shop,Urban,Indore,73.81,Moderate,1,Low cash-flow margin
+B115,O115,Micro Service Business,Semi-Urban,Lucknow,69.75,Moderate,1,Low supplier reliability
+B116,O116,Artisan,Urban,Mumbai,61.17,Moderate,2,Low cash-flow margin; High expense burden
+B104,O104,Freelancer,Rural,Indore,77.66,Strong,1,No major weaknesses identified
+B059,O059,Transport Worker,Semi-Urban,Patna,63.13,Moderate,2,Weak payment discipline; Low supplier reliability
+B089,O089,Freelancer,Semi-Urban,Lucknow,71.58,Moderate,1,No major weaknesses identified
+B087,O087,Transport Worker,Urban,Bengaluru,60.58,Moderate,2,Weak payment discipline; Low supplier reliability
+B061,O061,Micro Service Business,Urban,Mumbai,65.48,Moderate,1,No major weaknesses identified
+B062,O062,Artisan,Urban,Bengaluru,65.14,Moderate,3,Low cash-flow margin; Low supplier reliability; Unstable demand
+B063,O063,Freelancer,Rural,Bengaluru,79.19,Strong,1,No major weaknesses identified
+B064,O064,Micro Service Business,Peri-Urban,Guwahati,73.13,Moderate,1,No major weaknesses identified
+B065,O065,Retail Shop,Semi-Urban,Bengaluru,69.86,Moderate,1,No major weaknesses identified
+B066,O066,Retail Shop,Semi-Urban,Jaipur,68.13,Moderate,1,High expense burden
+B067,O067,Micro Service Business,Rural,Kochi,75.82,Strong,1,No major weaknesses identified
+B068,O068,Retail Shop,Urban,Delhi,72.73,Moderate,1,No major weaknesses identified
+B069,O069,Transport Worker,Urban,Guwahati,71.86,Moderate,1,Unstable demand
+B070,O070,Small Producer,Rural,Delhi,65.93,Moderate,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B071,O071,Small Producer,Peri-Urban,Ahmedabad,61.13,Moderate,4,Low cash-flow margin; High expense burden; Low supplier reliability; Unstable demand
+B072,O072,Small Producer,Rural,Delhi,61.8,Moderate,2,Low supplier reliability; Unstable demand
+B088,O088,Home Business,Urban,Patna,69.48,Moderate,1,Low cash-flow margin
+B073,O073,Artisan,Semi-Urban,Delhi,69.64,Moderate,3,Low supplier reliability; Unstable demand; Lower economic resilience
+B075,O075,Freelancer,Rural,Mumbai,76.65,Strong,1,No major weaknesses identified
+B076,O076,Freelancer,Urban,Indore,68.12,Moderate,2,Weak payment discipline; Low supplier reliability
+B077,O077,Artisan,Urban,Bengaluru,62.28,Moderate,2,Low cash-flow margin; Unstable demand
+B078,O078,Retail Shop,Semi-Urban,Bengaluru,68.61,Moderate,1,No major weaknesses identified
+B079,O079,Micro Service Business,Urban,Jaipur,63.31,Moderate,2,Low cash-flow margin; High expense burden
+B080,O080,Micro Service Business,Semi-Urban,Guwahati,72.3,Moderate,1,Low supplier reliability
+B081,O081,Food Vendor,Semi-Urban,Jaipur,65.53,Moderate,1,Low supplier reliability
+B082,O082,Retail Shop,Peri-Urban,Kochi,61.37,Moderate,4,Low cash-flow margin; High expense burden; Low supplier reliability; Unstable demand
+B083,O083,Micro Service Business,Urban,Kochi,67.22,Moderate,1,No major weaknesses identified
+B084,O084,Food Vendor,Semi-Urban,Jaipur,68.11,Moderate,2,Low cash-flow margin; High expense burden
+B085,O085,Freelancer,Urban,Guwahati,78.85,Strong,1,No major weaknesses identified
+B086,O086,Retail Shop,Semi-Urban,Jaipur,71.05,Moderate,2,Low cash-flow margin; High expense burden
+B074,O074,Freelancer,Urban,Guwahati,68.51,Moderate,1,Weak payment discipline
+B238,O238,Food Vendor,Urban,Patna,63.12,Moderate,1,Low cash-flow margin
+B239,O239,Food Vendor,Semi-Urban,Jaipur,67.53,Moderate,1,No major weaknesses identified
+B240,O240,Food Vendor,Peri-Urban,Mumbai,61.12,Moderate,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B393,O393,Home Business,Semi-Urban,Bengaluru,65.31,Moderate,2,Low cash-flow margin; High expense burden
+B394,O394,Transport Worker,Semi-Urban,Delhi,63.2,Moderate,2,Low cash-flow margin; Unstable demand
+B395,O395,Artisan,Semi-Urban,Delhi,70.01,Moderate,1,Unstable demand
+B396,O396,Home Business,Urban,Ahmedabad,70.52,Moderate,1,No major weaknesses identified
+B397,O397,Home Business,Semi-Urban,Bengaluru,74.06,Moderate,1,No major weaknesses identified
+B398,O398,Freelancer,Peri-Urban,Patna,80.45,Strong,1,No major weaknesses identified
+B399,O399,Transport Worker,Urban,Ahmedabad,59.52,Weak,2,Weak payment discipline; Low supplier reliability
+B400,O400,Transport Worker,Peri-Urban,Guwahati,61.25,Moderate,2,Weak payment discipline; Unstable demand
+B401,O401,Transport Worker,Urban,Jaipur,64.01,Moderate,1,No major weaknesses identified
+B402,O402,Freelancer,Semi-Urban,Jaipur,79.49,Strong,1,No major weaknesses identified
+B403,O403,Micro Service Business,Peri-Urban,Mumbai,75.82,Strong,1,No major weaknesses identified
+B404,O404,Artisan,Rural,Indore,70.42,Moderate,1,No major weaknesses identified
+B392,O392,Micro Service Business,Semi-Urban,Ahmedabad,69.39,Moderate,1,Low supplier reliability
+B405,O405,Micro Service Business,Rural,Jaipur,76.66,Strong,1,No major weaknesses identified
+B407,O407,Freelancer,Urban,Mumbai,71.04,Moderate,1,Low supplier reliability
+B408,O408,Small Producer,Urban,Jaipur,56.1,Weak,4,Low cash-flow margin; High expense burden; Weak payment discipline; Low supplier reliability
+B409,O409,Artisan,Peri-Urban,Indore,70.82,Moderate,2,Low supplier reliability; Unstable demand
+B410,O410,Transport Worker,Semi-Urban,Delhi,60.28,Moderate,2,Low cash-flow margin; Low supplier reliability
+B411,O411,Food Vendor,Semi-Urban,Delhi,68.31,Moderate,1,No major weaknesses identified
+B412,O412,Retail Shop,Rural,Patna,67.26,Moderate,1,Low supplier reliability
+B413,O413,Transport Worker,Rural,Ahmedabad,62.69,Moderate,1,Weak payment discipline
+B414,O414,Home Business,Peri-Urban,Guwahati,62.47,Moderate,3,Low cash-flow margin; High expense burden; Unstable demand
+B415,O415,Transport Worker,Semi-Urban,Delhi,64.04,Moderate,3,Low supplier reliability; Unstable demand; Lower economic resilience
+B416,O416,Freelancer,Urban,Bengaluru,75.69,Strong,1,No major weaknesses identified
+B417,O417,Artisan,Semi-Urban,Jaipur,62.32,Moderate,1,Unstable demand
+B418,O418,Food Vendor,Rural,Bengaluru,66.29,Moderate,1,Low supplier reliability
+B406,O406,Micro Service Business,Rural,Kochi,76.24,Strong,1,No major weaknesses identified
+B419,O419,Retail Shop,Peri-Urban,Indore,68.4,Moderate,1,No major weaknesses identified
+B391,O391,Small Producer,Peri-Urban,Ahmedabad,64.28,Moderate,3,Low cash-flow margin; High expense burden; Lower business continuity
+B389,O389,Food Vendor,Rural,Mumbai,65.75,Moderate,2,Unstable demand; Lower business continuity
+B363,O363,Transport Worker,Semi-Urban,Indore,60.27,Moderate,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B364,O364,Retail Shop,Urban,Bengaluru,68.34,Moderate,1,Low cash-flow margin
+B365,O365,Retail Shop,Rural,Lucknow,70.07,Moderate,1,No major weaknesses identified
+B366,O366,Retail Shop,Semi-Urban,Delhi,68.22,Moderate,1,No major weaknesses identified
+B367,O367,Artisan,Semi-Urban,Guwahati,67.41,Moderate,1,Unstable demand
+B368,O368,Freelancer,Peri-Urban,Bengaluru,75.9,Strong,1,No major weaknesses identified
+B369,O369,Transport Worker,Peri-Urban,Jaipur,65.45,Moderate,1,Low supplier reliability
+B370,O370,Home Business,Urban,Kochi,71.23,Moderate,1,No major weaknesses identified
+B371,O371,Retail Shop,Urban,Mumbai,69.57,Moderate,1,No major weaknesses identified
+B372,O372,Home Business,Rural,Guwahati,69.6,Moderate,1,Unstable demand
+B373,O373,Transport Worker,Semi-Urban,Bengaluru,68.34,Moderate,1,Unstable demand
+B374,O374,Artisan,Urban,Kochi,72.59,Moderate,1,No major weaknesses identified
+B390,O390,Retail Shop,Urban,Indore,62.94,Moderate,2,Low cash-flow margin; High expense burden
+B375,O375,Artisan,Semi-Urban,Kochi,73.75,Moderate,1,Unstable demand
+B377,O377,Home Business,Urban,Bengaluru,66.15,Moderate,1,Low cash-flow margin
+B378,O378,Food Vendor,Urban,Delhi,58.55,Weak,4,Low cash-flow margin; High expense burden; Low supplier reliability; Unstable demand
+B379,O379,Retail Shop,Rural,Patna,69.21,Moderate,1,No major weaknesses identified
+B380,O380,Food Vendor,Rural,Lucknow,70.24,Moderate,1,No major weaknesses identified
+B381,O381,Food Vendor,Urban,Lucknow,58.04,Weak,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B382,O382,Micro Service Business,Rural,Jaipur,75.49,Strong,1,No major weaknesses identified
+B383,O383,Retail Shop,Urban,Jaipur,63.35,Moderate,2,Low cash-flow margin; High expense burden
+B384,O384,Freelancer,Peri-Urban,Lucknow,78.15,Strong,1,No major weaknesses identified
+B385,O385,Micro Service Business,Urban,Delhi,69.24,Moderate,1,No major weaknesses identified
+B386,O386,Retail Shop,Rural,Mumbai,67.26,Moderate,1,High expense burden
+B387,O387,Freelancer,Urban,Ahmedabad,77.76,Strong,1,No major weaknesses identified
+B388,O388,Retail Shop,Rural,Patna,70.89,Moderate,1,No major weaknesses identified
+B376,O376,Food Vendor,Urban,Indore,67.03,Moderate,1,No major weaknesses identified
+B362,O362,Freelancer,Rural,Patna,80.44,Strong,1,No major weaknesses identified
+B420,O420,Small Producer,Urban,Delhi,69.42,Moderate,2,Low cash-flow margin; Unstable demand
+B422,O422,Home Business,Semi-Urban,Indore,70.95,Moderate,1,Unstable demand
+B453,O453,Small Producer,Urban,Patna,61.33,Moderate,2,Low cash-flow margin; Unstable demand
+B454,O454,Retail Shop,Rural,Guwahati,69.5,Moderate,1,Unstable demand
+B455,O455,Micro Service Business,Semi-Urban,Delhi,66.38,Moderate,2,Low cash-flow margin; High expense burden
+B456,O456,Food Vendor,Urban,Bengaluru,57.19,Weak,3,Low cash-flow margin; High expense burden; Unstable demand
+B457,O457,Home Business,Semi-Urban,Jaipur,71.14,Moderate,1,Low supplier reliability
+B458,O458,Transport Worker,Semi-Urban,Mumbai,60.61,Moderate,3,Low cash-flow margin; Unstable demand; Lower business continuity
+B459,O459,Micro Service Business,Rural,Jaipur,76.97,Strong,1,No major weaknesses identified
+B460,O460,Transport Worker,Rural,Indore,64.88,Moderate,2,Low supplier reliability; Unstable demand
+B461,O461,Food Vendor,Urban,Bengaluru,54.49,Weak,4,Low cash-flow margin; High expense burden; Weak payment discipline; Unstable demand
+B462,O462,Retail Shop,Urban,Patna,72.58,Moderate,1,Low cash-flow margin
+B463,O463,Retail Shop,Rural,Guwahati,66.99,Moderate,2,High expense burden; Unstable demand
+B464,O464,Small Producer,Semi-Urban,Guwahati,62.81,Moderate,1,No major weaknesses identified
+B452,O452,Retail Shop,Semi-Urban,Mumbai,62.93,Moderate,2,Low cash-flow margin; High expense burden
+B465,O465,Transport Worker,Urban,Guwahati,68.02,Moderate,1,No major weaknesses identified
+B467,O467,Retail Shop,Rural,Delhi,69.06,Moderate,1,Low supplier reliability
+B468,O468,Freelancer,Urban,Lucknow,75.75,Strong,1,No major weaknesses identified
+B469,O469,Micro Service Business,Peri-Urban,Kochi,63.96,Moderate,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B470,O470,Food Vendor,Urban,Ahmedabad,70.22,Moderate,1,No major weaknesses identified
+B471,O471,Artisan,Rural,Mumbai,68.71,Moderate,1,No major weaknesses identified
+B472,O472,Home Business,Semi-Urban,Delhi,66.42,Moderate,1,Low cash-flow margin
+B473,O473,Transport Worker,Urban,Patna,65.07,Moderate,1,No major weaknesses identified
+B474,O474,Small Producer,Peri-Urban,Mumbai,60.15,Moderate,2,Low cash-flow margin; High expense burden
+B475,O475,Freelancer,Semi-Urban,Guwahati,80.16,Strong,1,No major weaknesses identified
+B476,O476,Home Business,Peri-Urban,Jaipur,70.64,Moderate,1,Unstable demand
+B477,O477,Small Producer,Rural,Patna,63.66,Moderate,2,Low cash-flow margin; High expense burden
+B478,O478,Artisan,Urban,Mumbai,56.77,Weak,3,Low cash-flow margin; High expense burden; Weak payment discipline
+B466,O466,Artisan,Urban,Bengaluru,67.56,Moderate,1,No major weaknesses identified
+B421,O421,Retail Shop,Semi-Urban,Guwahati,68.7,Moderate,1,No major weaknesses identified
+B451,O451,Artisan,Urban,Jaipur,61.82,Moderate,2,Weak payment discipline; Unstable demand
+B449,O449,Micro Service Business,Peri-Urban,Lucknow,74.18,Moderate,1,No major weaknesses identified
+B423,O423,Micro Service Business,Urban,Kochi,72.22,Moderate,1,No major weaknesses identified
+B424,O424,Retail Shop,Peri-Urban,Kochi,72.96,Moderate,1,High expense burden
+B425,O425,Home Business,Peri-Urban,Bengaluru,70.17,Moderate,1,No major weaknesses identified
+B426,O426,Retail Shop,Urban,Ahmedabad,73.95,Moderate,1,No major weaknesses identified
+B427,O427,Transport Worker,Urban,Mumbai,64.76,Moderate,2,Low supplier reliability; Unstable demand
+B428,O428,Retail Shop,Semi-Urban,Ahmedabad,67.31,Moderate,1,Low supplier reliability
+B429,O429,Artisan,Semi-Urban,Patna,66.55,Moderate,1,No major weaknesses identified
+B430,O430,Home Business,Semi-Urban,Ahmedabad,68.05,Moderate,1,Unstable demand
+B431,O431,Small Producer,Rural,Patna,59.0,Weak,5,Weak payment discipline; Low supplier reliability; Unstable demand; Lower business continuity; Lower economic resilience
+B432,O432,Retail Shop,Rural,Patna,69.33,Moderate,3,Low supplier reliability; Unstable demand; Lower economic resilience
+B433,O433,Freelancer,Rural,Guwahati,78.74,Strong,1,Unstable demand
+B434,O434,Micro Service Business,Urban,Delhi,75.38,Strong,1,No major weaknesses identified
+B450,O450,Freelancer,Rural,Guwahati,80.64,Strong,1,No major weaknesses identified
+B435,O435,Retail Shop,Semi-Urban,Guwahati,62.44,Moderate,2,Low cash-flow margin; High expense burden
+B437,O437,Artisan,Semi-Urban,Indore,66.15,Moderate,3,Low supplier reliability; Unstable demand; Lower economic resilience
+B438,O438,Artisan,Rural,Kochi,62.93,Moderate,5,Low cash-flow margin; High expense burden; Low supplier reliability; Unstable demand; Lower economic resilience
+B439,O439,Retail Shop,Rural,Patna,71.51,Moderate,1,No major weaknesses identified
+B440,O440,Freelancer,Rural,Guwahati,77.14,Strong,1,Low supplier reliability
+B441,O441,Retail Shop,Urban,Indore,66.32,Moderate,3,Low cash-flow margin; High expense burden; Unstable demand
+B442,O442,Small Producer,Urban,Guwahati,66.48,Moderate,3,Low supplier reliability; Unstable demand; Lower economic resilience
+B443,O443,Artisan,Rural,Ahmedabad,70.84,Moderate,1,No major weaknesses identified
+B444,O444,Food Vendor,Semi-Urban,Jaipur,65.29,Moderate,1,Unstable demand
+B445,O445,Freelancer,Rural,Bengaluru,73.23,Moderate,1,Weak payment discipline
+B446,O446,Micro Service Business,Urban,Mumbai,67.28,Moderate,2,Low cash-flow margin; Low supplier reliability
+B447,O447,Food Vendor,Urban,Guwahati,58.93,Weak,4,Low cash-flow margin; Weak payment discipline; Low supplier reliability; Unstable demand
+B448,O448,Freelancer,Rural,Mumbai,79.99,Strong,1,No major weaknesses identified
+B436,O436,Small Producer,Semi-Urban,Patna,57.14,Weak,3,Low cash-flow margin; High expense burden; Weak payment discipline
+B361,O361,Retail Shop,Urban,Jaipur,67.06,Moderate,2,Low cash-flow margin; High expense burden
+B360,O360,Food Vendor,Urban,Lucknow,54.84,Weak,4,Low cash-flow margin; High expense burden; Low supplier reliability; Unstable demand
+B359,O359,Transport Worker,Peri-Urban,Indore,64.59,Moderate,1,Unstable demand
+B272,O272,Transport Worker,Rural,Guwahati,70.09,Moderate,1,No major weaknesses identified
+B273,O273,Artisan,Peri-Urban,Patna,70.56,Moderate,1,Unstable demand
+B274,O274,Freelancer,Semi-Urban,Guwahati,78.3,Strong,1,No major weaknesses identified
+B275,O275,Freelancer,Urban,Delhi,75.99,Strong,1,Unstable demand
+B276,O276,Small Producer,Peri-Urban,Guwahati,61.23,Moderate,3,Low supplier reliability; Unstable demand; Lower economic resilience
+B277,O277,Small Producer,Urban,Indore,68.33,Moderate,1,No major weaknesses identified
+B278,O278,Small Producer,Peri-Urban,Jaipur,64.65,Moderate,1,No major weaknesses identified
+B279,O279,Artisan,Peri-Urban,Jaipur,71.19,Moderate,1,No major weaknesses identified
+B280,O280,Food Vendor,Rural,Lucknow,65.84,Moderate,1,No major weaknesses identified
+B281,O281,Freelancer,Peri-Urban,Mumbai,74.02,Moderate,1,Unstable demand
+B282,O282,Transport Worker,Semi-Urban,Mumbai,60.02,Moderate,3,Weak payment discipline; Low supplier reliability; Unstable demand
+B283,O283,Home Business,Rural,Delhi,74.54,Moderate,1,No major weaknesses identified
+B271,O271,Transport Worker,Semi-Urban,Mumbai,67.52,Moderate,1,No major weaknesses identified
+B284,O284,Transport Worker,Urban,Indore,63.16,Moderate,3,Low supplier reliability; Unstable demand; Lower economic resilience
+B286,O286,Home Business,Semi-Urban,Patna,73.37,Moderate,1,No major weaknesses identified
+B287,O287,Artisan,Rural,Mumbai,68.29,Moderate,1,No major weaknesses identified
+B288,O288,Home Business,Peri-Urban,Jaipur,62.77,Moderate,1,Low cash-flow margin
+B289,O289,Small Producer,Rural,Guwahati,59.15,Weak,3,Low cash-flow margin; High expense burden; Unstable demand
+B290,O290,Freelancer,Semi-Urban,Guwahati,76.55,Strong,1,No major weaknesses identified
+B291,O291,Small Producer,Urban,Lucknow,66.05,Moderate,2,Low cash-flow margin; Unstable demand
+B292,O292,Freelancer,Rural,Indore,77.08,Strong,1,Low supplier reliability
+B293,O293,Small Producer,Urban,Indore,54.26,Weak,6,Low cash-flow margin; Weak payment discipline; Low supplier reliability; Unstable demand; Lower business continuity; Lower economic resilience
+B294,O294,Small Producer,Urban,Kochi,56.91,Weak,2,Low cash-flow margin; High expense burden
+B295,O295,Food Vendor,Rural,Ahmedabad,65.17,Moderate,1,Weak payment discipline
+B296,O296,Food Vendor,Urban,Mumbai,63.64,Moderate,2,Low cash-flow margin; Unstable demand
+B297,O297,Freelancer,Urban,Indore,73.35,Moderate,1,No major weaknesses identified
+B285,O285,Food Vendor,Urban,Lucknow,58.86,Weak,3,Low cash-flow margin; Weak payment discipline; Low supplier reliability
+B298,O298,Home Business,Peri-Urban,Jaipur,68.67,Moderate,1,No major weaknesses identified
+B270,O270,Food Vendor,Semi-Urban,Guwahati,62.1,Moderate,1,Weak payment discipline
+B268,O268,Retail Shop,Semi-Urban,Kochi,73.28,Moderate,2,Low cash-flow margin; High expense burden
+B241,O241,Small Producer,Urban,Delhi,63.91,Moderate,1,No major weaknesses identified
+B242,O242,Transport Worker,Urban,Guwahati,62.07,Moderate,1,Low cash-flow margin
+B243,O243,Home Business,Urban,Guwahati,67.88,Moderate,1,No major weaknesses identified
+B244,O244,Retail Shop,Peri-Urban,Mumbai,68.32,Moderate,2,High expense burden; Low supplier reliability
+B245,O245,Small Producer,Urban,Guwahati,58.95,Weak,4,Low cash-flow margin; Low supplier reliability; Lower business continuity; Lower economic resilience
+B246,O246,Food Vendor,Urban,Bengaluru,66.59,Moderate,1,Low cash-flow margin
+B247,O247,Retail Shop,Urban,Delhi,58.92,Weak,4,Low cash-flow margin; High expense burden; Low supplier reliability; Unstable demand
+B248,O248,Retail Shop,Urban,Ahmedabad,67.08,Moderate,1,No major weaknesses identified
+B249,O249,Freelancer,Rural,Guwahati,75.64,Strong,1,Unstable demand
+B251,O251,Micro Service Business,Semi-Urban,Bengaluru,67.94,Moderate,1,Unstable demand
+B252,O252,Freelancer,Rural,Guwahati,69.25,Moderate,2,Weak payment discipline; Unstable demand
+B253,O253,Micro Service Business,Peri-Urban,Bengaluru,70.68,Moderate,1,No major weaknesses identified
+B269,O269,Home Business,Semi-Urban,Indore,70.93,Moderate,1,Low supplier reliability
+B254,O254,Transport Worker,Urban,Kochi,62.01,Moderate,3,Low cash-flow margin; Weak payment discipline; Unstable demand
+B256,O256,Home Business,Semi-Urban,Indore,74.88,Moderate,1,No major weaknesses identified
+B257,O257,Food Vendor,Urban,Jaipur,65.01,Moderate,1,Low cash-flow margin
+B258,O258,Small Producer,Rural,Jaipur,68.25,Moderate,1,No major weaknesses identified
+B259,O259,Food Vendor,Semi-Urban,Delhi,67.81,Moderate,1,No major weaknesses identified
+B260,O260,Home Business,Rural,Bengaluru,71.19,Moderate,1,Unstable demand
+B261,O261,Artisan,Urban,Mumbai,65.04,Moderate,3,Low cash-flow margin; High expense burden; Unstable demand
+B262,O262,Food Vendor,Semi-Urban,Jaipur,66.78,Moderate,1,No major weaknesses identified
+B263,O263,Small Producer,Semi-Urban,Bengaluru,62.67,Moderate,1,Unstable demand
+B264,O264,Retail Shop,Urban,Bengaluru,64.16,Moderate,3,Low cash-flow margin; High expense burden; Unstable demand
+B265,O265,Food Vendor,Rural,Lucknow,57.95,Weak,3,Low cash-flow margin; High expense burden; Weak payment discipline
+B266,O266,Transport Worker,Peri-Urban,Lucknow,64.12,Moderate,1,Low supplier reliability
+B267,O267,Home Business,Urban,Indore,70.64,Moderate,1,No major weaknesses identified
+B255,O255,Freelancer,Peri-Urban,Ahmedabad,78.11,Strong,1,No major weaknesses identified
+B299,O299,Micro Service Business,Peri-Urban,Lucknow,72.92,Moderate,1,Unstable demand
+B300,O300,Micro Service Business,Peri-Urban,Patna,67.85,Moderate,2,Low cash-flow margin; High expense burden
+B301,O301,Home Business,Semi-Urban,Kochi,67.99,Moderate,1,Unstable demand
+B333,O333,Retail Shop,Semi-Urban,Delhi,58.34,Weak,2,Low cash-flow margin; High expense burden
+B334,O334,Retail Shop,Semi-Urban,Indore,66.81,Moderate,1,Unstable demand
+B335,O335,Food Vendor,Semi-Urban,Ahmedabad,62.26,Moderate,1,Unstable demand
+B336,O336,Food Vendor,Urban,Kochi,67.44,Moderate,1,Low cash-flow margin
+B337,O337,Small Producer,Semi-Urban,Patna,59.8,Weak,3,Low supplier reliability; Unstable demand; Lower economic resilience
+B338,O338,Small Producer,Urban,Guwahati,61.05,Moderate,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B339,O339,Transport Worker,Rural,Indore,70.91,Moderate,1,Low supplier reliability
+B340,O340,Retail Shop,Rural,Patna,68.85,Moderate,1,High expense burden
+B341,O341,Retail Shop,Rural,Kochi,70.9,Moderate,1,No major weaknesses identified
+B342,O342,Artisan,Urban,Indore,69.68,Moderate,1,No major weaknesses identified
+B343,O343,Micro Service Business,Rural,Ahmedabad,72.72,Moderate,1,No major weaknesses identified
+B344,O344,Small Producer,Rural,Kochi,70.58,Moderate,1,No major weaknesses identified
+B332,O332,Retail Shop,Urban,Mumbai,61.9,Moderate,2,Low cash-flow margin; High expense burden
+B345,O345,Food Vendor,Urban,Bengaluru,64.35,Moderate,4,Low cash-flow margin; High expense burden; Low supplier reliability; Unstable demand
+B347,O347,Micro Service Business,Urban,Ahmedabad,66.06,Moderate,1,Low cash-flow margin
+B348,O348,Home Business,Urban,Indore,70.58,Moderate,2,Low cash-flow margin; Low supplier reliability
+B349,O349,Transport Worker,Urban,Guwahati,55.77,Weak,3,Low cash-flow margin; Weak payment discipline; Unstable demand
+B350,O350,Artisan,Semi-Urban,Patna,64.1,Moderate,1,Unstable demand
+B351,O351,Artisan,Rural,Delhi,68.91,Moderate,1,Unstable demand
+B352,O352,Home Business,Semi-Urban,Patna,69.98,Moderate,1,Unstable demand
+B353,O353,Retail Shop,Urban,Indore,67.44,Moderate,1,No major weaknesses identified
+B354,O354,Artisan,Peri-Urban,Patna,67.53,Moderate,1,No major weaknesses identified
+B355,O355,Home Business,Urban,Mumbai,64.43,Moderate,2,Weak payment discipline; Unstable demand
+B356,O356,Food Vendor,Urban,Kochi,68.91,Moderate,1,Low cash-flow margin
+B357,O357,Transport Worker,Urban,Delhi,65.21,Moderate,1,Unstable demand
+B358,O358,Home Business,Semi-Urban,Jaipur,74.23,Moderate,1,No major weaknesses identified
+B346,O346,Retail Shop,Rural,Mumbai,67.37,Moderate,1,High expense burden
+B331,O331,Food Vendor,Urban,Kochi,63.71,Moderate,2,Low supplier reliability; Unstable demand
+B330,O330,Small Producer,Semi-Urban,Ahmedabad,64.31,Moderate,1,No major weaknesses identified
+B329,O329,Transport Worker,Rural,Lucknow,65.76,Moderate,1,Unstable demand
+B302,O302,Transport Worker,Rural,Bengaluru,63.81,Moderate,1,Unstable demand
+B303,O303,Freelancer,Semi-Urban,Delhi,76.55,Strong,1,Low supplier reliability
+B304,O304,Food Vendor,Semi-Urban,Patna,54.15,Weak,3,Low cash-flow margin; High expense burden; Weak payment discipline
+B305,O305,Food Vendor,Urban,Bengaluru,61.6,Moderate,1,Low supplier reliability
+B306,O306,Transport Worker,Urban,Guwahati,60.5,Moderate,2,Unstable demand; Lower economic resilience
+B307,O307,Artisan,Rural,Delhi,55.7,Weak,4,Low cash-flow margin; High expense burden; Weak payment discipline; Unstable demand
+B308,O308,Transport Worker,Rural,Mumbai,70.29,Moderate,1,No major weaknesses identified
+B309,O309,Food Vendor,Peri-Urban,Jaipur,63.32,Moderate,1,Unstable demand
+B310,O310,Food Vendor,Rural,Delhi,62.46,Moderate,3,Low cash-flow margin; High expense burden; Low supplier reliability
+B311,O311,Small Producer,Peri-Urban,Ahmedabad,67.38,Moderate,1,No major weaknesses identified
+B312,O312,Transport Worker,Rural,Bengaluru,67.76,Moderate,1,No major weaknesses identified
+B313,O313,Home Business,Urban,Mumbai,75.93,Strong,1,No major weaknesses identified
+B314,O314,Small Producer,Urban,Ahmedabad,63.81,Moderate,1,No major weaknesses identified
+B315,O315,Food Vendor,Rural,Guwahati,65.98,Moderate,1,Unstable demand
+B316,O316,Artisan,Semi-Urban,Ahmedabad,63.1,Moderate,1,Low supplier reliability
+B317,O317,Home Business,Rural,Kochi,76.47,Strong,1,Unstable demand
+B318,O318,Food Vendor,Urban,Kochi,67.91,Moderate,1,No major weaknesses identified
+B319,O319,Small Producer,Rural,Lucknow,66.67,Moderate,1,Low supplier reliability
+B320,O320,Freelancer,Urban,Patna,80.43,Strong,1,No major weaknesses identified
+B321,O321,Food Vendor,Urban,Patna,63.92,Moderate,2,Low cash-flow margin; Unstable demand
+B322,O322,Micro Service Business,Rural,Mumbai,73.31,Moderate,1,No major weaknesses identified
+B323,O323,Retail Shop,Semi-Urban,Guwahati,67.4,Moderate,1,High expense burden
+B324,O324,Micro Service Business,Peri-Urban,Indore,72.71,Moderate,1,No major weaknesses identified
+B325,O325,Retail Shop,Peri-Urban,Kochi,67.59,Moderate,1,High expense burden
+B326,O326,Artisan,Urban,Mumbai,64.88,Moderate,1,Low supplier reliability
+B327,O327,Retail Shop,Urban,Indore,71.65,Moderate,1,Low cash-flow margin
+B328,O328,Artisan,Rural,Patna,55.77,Weak,4,Low cash-flow margin; High expense burden; Weak payment discipline; Unstable demand
+B480,O480,Food Vendor,Urban,Mumbai,68.1,Moderate,2,Low cash-flow margin; Unstable demand
+B500,O500,Food Vendor,Urban,Mumbai,66.57,Moderate,1,Unstable demand
