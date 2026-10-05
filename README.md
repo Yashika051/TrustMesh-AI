@@ -304,7 +304,7 @@ Explore anonymized patterns within the informal economy and financial inclusion 
 
 ### Phase 4 — Application
 
-* [ ] Backend API
+* [x] Backend API
 * [ ] Interactive dashboard
 * [ ] Individual business interface
 * [ ] Lender insights
